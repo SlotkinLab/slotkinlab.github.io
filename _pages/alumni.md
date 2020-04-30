@@ -1,6 +1,7 @@
 ---
 layout: single
 classes: wide
+title: Alumni
 description:
 permalink: /alumni/
 gallery:
@@ -29,7 +30,6 @@ gallery:
   - url: /assets/images/group_pictures/2010.jpg
     image_path: /assets/images/group_pictures/2010.jpg
 ---
-# Alumni
 ### *Postdoctoral Scientists*
 
 | Name                                                   | Year               | Current position                                                 |
