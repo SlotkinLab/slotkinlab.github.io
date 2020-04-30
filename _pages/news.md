@@ -20,6 +20,3 @@ Listen to the full podcast [here.](https://bioinformatics.chat/repeats)
 
 
 ---
-<div class='jekyll-twitter-plugin' align="left">
-    {% twitter https://twitter.com/Slotkin_Lab maxwidth=500 limit=5 %}
-</div>
