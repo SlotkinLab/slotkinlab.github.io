@@ -1,6 +1,7 @@
 ---
 layout: single
 classes: wide
+title: Publications
 description:
 permalink: /publications/
 ---
