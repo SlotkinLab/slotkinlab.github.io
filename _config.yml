@@ -10,8 +10,6 @@ locale                   : "en-US"
 title                    : "The Slotkin Laboratory"  # the name of your site, e.g. ACME Corp.
 name                     : &name "Keith Slotkin" # &name is a YAML anchor which can be *referenced later
 description              : &description "Slotkin lab at Donald Danforth Plant Science Center"
-url                      : "https://slotkinlab/github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
 search                   : false # true, false (default)
 search_full_content      : false # true, false (default)
 # Social Sharing
