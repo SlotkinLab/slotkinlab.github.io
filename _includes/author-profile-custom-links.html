@@ -1,0 +1,31 @@
+<!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+
+{% if author.orc_id %}
+  <li>
+    <a href="https://orcid.org/{{ author.orc_id }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-info-circle" aria-hidden="true" style="color:#ABC953"></i> ORCID
+    </a>
+  </li>
+{% endif %}
+
+{% if author.google.scholar %}
+  <li>
+    <a href="http://scholar.google.com/citations?user={{ author.google.scholar }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fab fa-google" aria-hidden="true"></i> Google Scholar
+    </a>
+  </li>
+{% endif %}
+
+{% if author.my_ncbi %}
+  <li>
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/{{ author.my_ncbi }}/bibliography/public/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-dna" aria-hidden="true" style="color:#2C4462"></i> My NCBI
+    </a>
+  </li>
+{% endif %}
