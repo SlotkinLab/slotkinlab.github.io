@@ -13,7 +13,7 @@ Associate Member and PI, [Donald Danforth Plant Science Center](https://www.danf
 Associate Professor, [Division of Biological Sciences, University of Missouri-Columbia](https://biology.missouri.edu)  
 Member, [Institute for Data Science and Informatics, University of Missouri](https://muidsi.missouri.edu)
 
-<a href="http://scholar.google.com/citations?user={{ author.google.scholar }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+<a href="http://scholar.google.com/citations?user=jkJlkSYAAAAJ" itemprop="sameAs" rel="nofollow noopener noreferrer">
   <i class="fab fa-google" aria-hidden="true"></i></a>
 <a href="https://orcid.org/0000-0001-9582-3533" itemprop="sameAs" rel="nofollow noopener noreferrer">
   <i class="fas fa-info-circle" aria-hidden="true" style="color:#ABC953"></i></a>
