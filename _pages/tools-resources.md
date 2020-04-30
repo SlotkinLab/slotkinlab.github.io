@@ -1,10 +1,10 @@
 ---
 layout: single
 classes: wide
+title: Tools & Resources
 description:
 permalink: /tools-resources/
 ---
-# Tools & Resources
 Below are some of the tools and resources developed by the Slotkin Lab:
 
 #### Improved annotation of Arabidopsis Transposable Elements
