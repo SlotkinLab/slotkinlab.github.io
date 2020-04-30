@@ -1,10 +1,10 @@
 ---
 layout: single
 classes: wide
+title: News
 permalink: /news/
 ---
-# News
----
+
 #### *Danforth Center, Wash U Scientists Study Increasing Carbon Dioxide Levels On Plants*
 Read more at [STL public radio news.](https://news.stlpublicradio.org/post/danforth-center-wash-u-scientists-study-increasing-carbon-dioxide-levels-plants) Also featured in the [STL business journal.](https://www.bizjournals.com/stlouis/news/2019/09/16/danforth-center-scientists-snag-9m-in-funding-to.html)
 
