@@ -1,12 +1,12 @@
 ---
 layout: single
 permalink: /people/
+title: Principal Investigator
 collection: people
 entries_layout: grid
 classes: wide
 show_excerpts: true
 ---
-## Principal Investigator
 [![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/people/KS.jpg)](https://www.danforthcenter.org/our-work/principal-investigators/r-keith-slotkin/){: .align-left}
 ### [**R. Keith Slotkin**](https://www.danforthcenter.org/our-work/principal-investigators/r-keith-slotkin/)  
 Associate Member and PI, [Donald Danforth Plant Science Center](https://www.danforthcenter.org/)  
