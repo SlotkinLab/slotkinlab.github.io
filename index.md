@@ -7,7 +7,7 @@ feature_row:
   - image_path: /assets/images/flower.svg
     alt: "research"
     title: "Research"
-    excerpt: "Our research focuses on understanding the epigenetic regulation of transposable elements. See [here](/research/) for current research description."
+    excerpt: "Our research focuses on understanding the epigenetic regulation of transposable elements. See [here](/research/) for a description of our research."
   - image_path: /assets/images/people2.jpg
     alt: "People"
     title: "People"
