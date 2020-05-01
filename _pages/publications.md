@@ -5,7 +5,7 @@ title: Publications
 description:
 permalink: /publications/
 ---
-An up to date full list of publications can be found on [Google Scholar.](https://scholar.google.comcitations?user=jkJlkSYAAAAJ&hl=en)
+An up to date full list of publications can be found on [Google Scholar.](https://scholar.google.com/citations?user=jkJlkSYAAAAJ&hl=en)
 
 #### 2020
 
