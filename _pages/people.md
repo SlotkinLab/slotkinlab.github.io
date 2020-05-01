@@ -23,7 +23,7 @@ Member, [Institute for Data Science and Informatics, University of Missouri](htt
   <i class="fab fa-fw fa-twitter" style="color:#00acee"></i></a>
 
 <br>
-## Current Members
+# Current Members
 <section class="page__content cf">
 
 <div class="entries-{{ page.entries_layout }}">
