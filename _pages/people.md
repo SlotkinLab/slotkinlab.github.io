@@ -22,7 +22,6 @@ Member, [Institute for Data Science and Informatics, University of Missouri](htt
 <a title="Twitter" href="https://twitter.com/Slotkin_Lab">
   <i class="fab fa-fw fa-twitter" style="color:#00acee"></i></a>
 
-<br>
 # Current Members
 <section class="page__content cf">
 
