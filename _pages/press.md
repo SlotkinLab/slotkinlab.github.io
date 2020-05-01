@@ -1,8 +1,8 @@
 ---
 layout: single
 classes: wide
-title: News
-permalink: /news/
+title: Press
+permalink: /press/
 ---
 
 #### *Danforth Center, Wash U Scientists Study Increasing Carbon Dioxide Levels On Plants*
