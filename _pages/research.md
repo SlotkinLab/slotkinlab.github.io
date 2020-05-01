@@ -16,7 +16,7 @@ Projects in the lab vary from proteomics to genomics, bench-work to purely compu
 
 If you need help with one of these topics, please feel free to email us and request a collaboration!
 
-See our [Publications(/publications/), [Press](/press/) and [Resources](/resources) pages for links to our research articles, while these six below are good representations of our opinions and viewpoints:
+See our [Publications](/publications/), [Press](/press/) and [Resources](/resources) pages for links to our research articles, while these six below are good representations of our opinions and viewpoints:
 
 Shahid, S., Slotkin, R. (2020). [The current revolution in transposable element biology enabled by long reads.](https://dx.doi.org/10.1016/j.pbi.2019.12.012) Current Opinion in Plant Biology 54, 49-56.
 
