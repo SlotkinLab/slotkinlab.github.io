@@ -7,19 +7,19 @@ permalink: /alumni/
 gallery:
   - url: /assets/images/group_pictures/2020.jpg
     image_path: /assets/images/group_pictures/2020.jpg
-    title: "DDPSC, 2020"
+    title: "Danforth Center, 2020"
   - url: /assets/images/group_pictures/2019_stanley.jpg
     image_path: /assets/images/group_pictures/2019_stanley.jpg
-    title: "DDPSC, 2020"
+    title: "Danforth Center, 2020"
   - url: /assets/images/group_pictures/2019_christmas.jpg
     image_path: /assets/images/group_pictures/2019_christmas.jpg
-    title: "DDPSC, Winterfest 2019"
+    title: "Danforth Center, Winterfest 2019"
   - url: /assets/images/group_pictures/2019_lobby.jpg
-    title: "DDPSC, 2019"
+    title: "Danforth Center, 2019"
     image_path: /assets/images/group_pictures/2019_lobby.jpg  
   - url: /assets/images/group_pictures/2018_golf_cart.jpg
     image_path: /assets/images/group_pictures/2018_golf_cart.jpg
-    title: "DDPSC, 2018"
+    title: "Danforth Center, 2018"
   - url: /assets/images/group_pictures/2017.jpg
     image_path: /assets/images/group_pictures/2017.jpg
     title: "Ohio State, 2017"
@@ -80,7 +80,9 @@ Josquin Daron| 2015-2017|[Marie Curie Postdoctoral Fellow, MIVEGEC laboratory of
 
 | Name                                         | Year              | Current position                                                 |
 | -------------------------------------------- | ----------------- | ---------------------------------------------------------------- |
-|Sarah Reeder|2009-2013| [Lab manager in the Dobritsa pollen lab at Ohio State](https://molgen.osu.edu/people/dobritsa.1)|
+|Amy Gottesman|2009| Owner of [My Sweet One Baking](https://www.facebook.com/mysweetonebaking/)|
+|John Patton|2009-2010| [Completed his M.D./Ph.D. at Ohio State](https://vet.osu.edu/cvm/graduate-student-named-presidential-fellow)|
+|Sarah Reeder|2010-2013| [Lab manager in the Dobritsa pollen lab at Ohio State](https://molgen.osu.edu/people/dobritsa.1)|
 |Kim Maxson-Stein|2018-2019||
 
 ---
