@@ -60,10 +60,10 @@ var store = [{
         "teaser": "http://localhost:4000/assets/images/people/SE.jpg"
       },{
         "title": "Terri Burton",
-        "excerpt":"Saima is a Simons fellow for the Life Science Research Foundation.  ","categories": [],
+        "excerpt":" ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/people/terri-burton/",
-        "teaser": "http://localhost:4000/assets/images/flower.png"
+        "teaser": "http://localhost:4000/assets/images/people/TB.jpg"
       },{
         "title": "Yu-Hung Hung",
         "excerpt":" ","categories": [],

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Andrea McCue"
-author: Andrea Mccue
+author: Andrea McCue
 jobtitle: Postdoctoral Associate, OSU
 bio:
 excerpt: "Visiting Scientist at DDPSC"

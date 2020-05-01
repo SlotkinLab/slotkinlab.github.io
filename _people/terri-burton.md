@@ -7,7 +7,6 @@ bio:
 excerpt: ""
 author_profile: true
 header:
-  teaser: /assets/images/flower.png
+  teaser: /assets/images/people/TB.jpg
 
 ---
-Saima is a Simons fellow for the Life Science Research Foundation.

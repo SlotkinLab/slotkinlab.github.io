@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Lauren McLain"
-author: Lauren Mclain
+author: Lauren McLain
 jobtitle: Research Technician
 bio:
 excerpt: ""
