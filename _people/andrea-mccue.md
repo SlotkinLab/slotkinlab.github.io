@@ -2,9 +2,9 @@
 layout: archive
 title: "Andrea McCue"
 author: Andrea McCue
-jobtitle: Postdoctoral Associate, located in Columbus Ohio at The Ohio State University
+jobtitle: Postdoctoral Associate
 bio:
-excerpt: "Visiting Scientist at DDPSC"
+excerpt: 
 author_profile: true
 header:
   teaser: /assets/images/people/ADM.jpg
