@@ -87,5 +87,5 @@ Josquin Daron| 2015-2017|[Marie Curie Postdoctoral Fellow, MIVEGEC laboratory of
 
 ---
 
-# Lab pictures
+# Lab pictures from each year
 {% include gallery id="gallery" %}
