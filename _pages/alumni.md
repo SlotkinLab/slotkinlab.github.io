@@ -7,28 +7,40 @@ permalink: /alumni/
 gallery:
   - url: /assets/images/group_pictures/2020.jpg
     image_path: /assets/images/group_pictures/2020.jpg
+    title: "DDPSC, 2020"
   - url: /assets/images/group_pictures/2019_stanley.jpg
     image_path: /assets/images/group_pictures/2019_stanley.jpg
-  - url: /assets/images/group_pictures/2019_lobby.jpg
-    image_path: /assets/images/group_pictures/2019_lobby.jpg
+    title: "DDPSC, 2020"
   - url: /assets/images/group_pictures/2019_christmas.jpg
     image_path: /assets/images/group_pictures/2019_christmas.jpg
+    title: "DDPSC, Winterfest 2019"
+  - url: /assets/images/group_pictures/2019_lobby.jpg
+    title: "DDPSC, 2019"
+    image_path: /assets/images/group_pictures/2019_lobby.jpg  
   - url: /assets/images/group_pictures/2018_golf_cart.jpg
     image_path: /assets/images/group_pictures/2018_golf_cart.jpg
+    title: "DDPSC, 2018"
   - url: /assets/images/group_pictures/2017.jpg
     image_path: /assets/images/group_pictures/2017.jpg
+    title: "Ohio State, 2017"
   - url: /assets/images/group_pictures/2016.jpg
     image_path: /assets/images/group_pictures/2016.jpg
+    title: "Ohio State, 2016"
   - url: /assets/images/group_pictures/2015.jpg
     image_path: /assets/images/group_pictures/2015.jpg
+    title: "Ohio State, 2015"
   - url: /assets/images/group_pictures/2014.jpg
     image_path: /assets/images/group_pictures/2014.jpg
+    title: "Ohio State, 2014"
   - url: /assets/images/group_pictures/2012.jpg
     image_path: /assets/images/group_pictures/2012.jpg
+    title: "Ohio State, 2012"
   - url: /assets/images/group_pictures/2011.jpg
     image_path: /assets/images/group_pictures/2011.jpg
+    title: "Ohio State, 2011"
   - url: /assets/images/group_pictures/2010.jpg
     image_path: /assets/images/group_pictures/2010.jpg
+    title: "Ohio State, 2010"
 ---
 ### *Postdoctoral Scientists*
 
