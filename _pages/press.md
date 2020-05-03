@@ -13,11 +13,11 @@ Read more at [STL public radio news.](https://news.stlpublicradio.org/post/danfo
 </figure>
 ---
 #### *Slotkin lab graduate students Diego Cuerda-Gil and Meredith Sigman with postdoc Kaushik Panda win the Danforth Center's Big Ideas 2.0 competition*
-Voted on by a live audience, this idea was awarded seed funding to jump-start the project
+Voted on by a live audience, this idea was awarded seed funding to jump-start the project. 
 Read more [here](https://www.danforthcenter.org/news/a-big-idea-with-a-bigger-impact/)
 
-<figure>
-  <a href="https://www.danforthcenter.org/news/a-big-idea-with-a-bigger-impact/"><img src="https://www.danforthcenter.org/app/uploads/2019/03/CY6A4144-1.jpg"></a>
+<figure class="half">
+  <a href="https://www.danforthcenter.org/news/a-big-idea-with-a-bigger-impact/"><img src="https://www.danforthcenter.org/app/uploads/2020/03/CY6A4099.jpg"></a>
 </figure>
 ---
 #### *Kaushik Panda and Keith Slotkin talk about transposons on the Bioinformatics Chat podcast*
