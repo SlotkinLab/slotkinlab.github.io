@@ -16,6 +16,8 @@ Read more at [STL public radio news.](https://news.stlpublicradio.org/post/danfo
 Voted on by a live audience, this idea was awarded seed funding to jump-start the project. 
 Read more [here](https://www.danforthcenter.org/news/a-big-idea-with-a-bigger-impact/)
 
+The video of the entire Danforth Center Big Ideas 2.0 competition is available [here](https://hecmedia.org/posts/conversations-from-the-danforth-plant-science-center-presents-big-ideas-2-0)
+
 <figure class="half">
   <a href="https://www.danforthcenter.org/news/a-big-idea-with-a-bigger-impact/"><img src="https://www.danforthcenter.org/app/uploads/2020/03/CY6A4099.jpg"></a>
 </figure>
