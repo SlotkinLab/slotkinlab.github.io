@@ -17,7 +17,7 @@ C. Warman, K. Panda, Z. Vejlupkova, S. Hokin, E. Unger-Wallace, R.A. Cole, A.M. 
 
 K. Panda, A.D. McCue and R.K. Slotkin. [Arabidopsis RNA Polymerase IV generates 21-22 nucleotide small RNAs that can participate in RNA-directed DNA methylation and may regulate genes.](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0417) **Philosophical Transactions of the Royal Society B** 375: e0417.
 
-#### 2019
+### 2019
 
 L. Ji, S.M. Mathioni, S. Johnson, D. Tucker, A.J. Bewick, K.D. Kim, J. Daron, R.K. Slotkin, S.A. Jackson, W.A. Parrot, B.C. Meyers, R.J. Schmitz. [Genome-wide reinforcement of DNA methylation occurs during somatic embryogenesis in soybean.](http://www.plantcell.org/content/31/10/2315) **The Plant Cell** 31: 2315-2331.
 
@@ -27,13 +27,13 @@ S.G. Choudury, S. Shahid, D. Cuerda-Gil, K. Panda, A. Cullen, Q. Ashraf, M. Sigm
 
 C.S. Calhoun, D.K. Crist, E.M. Knee, C.G. Price, B.E. Lindsey, D.M. Castrejon, E. Nagy, J.W. Mann, J.A. Miller, E. Grotewold, R.K. Slotkin, J. Brkljacic. [Chapter 2: The Genetic Resources of *Arabidopsis thaliana*.](https://www.taylorfrancis.com/books/e/9781315100999/chapters/10.1201/9781315100999-2) **The Biological Resources of Model Organisms**, Edited by R.L. Jarret and K. McCluskey. CRC Press.
 
-#### 2018
+## 2018
 
 G. Martinez, P. Wolff, Z. Wang, J. Moreno-Romero, J. Santos-González, L.L. Conze, C. DeFraia, R.K. Slotkin and C. Köhler. [Paternal easiRNAs regulate parental genome dosage in Arabidopsis.](https://www.nature.com/articles/s41588-017-0033-4) **Nature Genetics** v50:193-198.
 
 R.K. Slotkin. [The case for not masking away repetitive DNA.](https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-018-0120-9) **Mobile DNA** v9: 475.
 
-#### 2017
+# 2017
 
 J. Daron and R.K. Slotkin. [EpiTEome: Simultaneous detection of transposable element insertion sites and their DNA methylation levels.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1232-0) **Genome Biology** v18:7704.
 
