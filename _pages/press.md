@@ -12,6 +12,14 @@ Read more at [STL public radio news.](https://news.stlpublicradio.org/post/danfo
   <a href="https://www.danforthcenter.org/news/as-co2-levels-rise-danforth-center-scientists-explore-the-effect-on-plants-in-an-effort-to-improve-crops-for-a-changing-environment/?__sw_csrfToken=REzoyqxsammyaOEYLBWPPdBXkySo5Ehs"><img src="https://www.danforthcenter.org/app/uploads/2019/09/DSC_0884.jpg"></a>
 </figure>
 ---
+#### *Slotkin lab graduate students Diego Cuerda-Gil and Meredith Sigman with postdoc Kaushik Panda win the Danforth Center's Big Ideas 2.0 competition*
+Voted on by a live audience, this idea was awarded seed funding to jump-start the project
+Read more [here](https://www.danforthcenter.org/news/a-big-idea-with-a-bigger-impact/)
+
+<figure>
+  <a href="https://www.danforthcenter.org/news/a-big-idea-with-a-bigger-impact/"><img src="https://www.danforthcenter.org/app/uploads/2019/03/CY6A4144-1.jpg"></a>
+</figure>
+---
 #### *Kaushik Panda and Keith Slotkin talk about transposons on the Bioinformatics Chat podcast*
 Listen to the full podcast [here.](https://bioinformatics.chat/repeats)
 <figure>
