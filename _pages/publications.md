@@ -13,7 +13,7 @@ An up to date full list of publications can be found on [Google Scholar.](https:
 
 A.D. Yates-Stewart, **J. Daron**, S. Wijeratne, **S. Shahid**, H.A. Edgington, **R.K. Slotkin** and A. Michel. [Soybean aphids adapted to host-plant resistance by down regulating putative effectors and up regulating transposable elements.](https://www.sciencedirect.com/science/article/pii/S0965174820300527) **Insect Biochemistry and Molecular Biology** 121: 103363.
 
-C. Warman, **K. Panda**, Z. Vejlupkova, S. Hokin, E. Unger-Wallace, R.A. Cole, A.M. Chettoor, D. Jiang, E. Vollbrecht, M. Evans, **R.K. Slotkin**, J.E. Fowler. [Highly expressed maize pollen genes display coordinated expression with neighboring transposable elements and contribute to pollen fitness.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008462) **PLoS Genetics** 16:e1008462
+C. Warman, **K. Panda**, Z. Vejlupkova, S. Hokin, E. Unger-Wallace, R.A. Cole, A.M. Chettoor, D. Jiang, E. Vollbrecht, M. Evans, **R.K. Slotkin**, J.E. Fowler. [Highly expressed maize pollen genes display coordinated expression with neighboring transposable elements and contribute to pollen fitness.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008462) **PLoS Genetics** 16:e1008462.
 
 **K. Panda**, **A.D. McCue** and **R.K. Slotkin**. [Arabidopsis RNA Polymerase IV generates 21-22 nucleotide small RNAs that can participate in RNA-directed DNA methylation and may regulate genes.](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0417) **Philosophical Transactions of the Royal Society B** 375: e0417.
 
@@ -55,7 +55,7 @@ G. Martinez, P. Wolff, Z. Wang, J. Moreno-Romero, J. Santos-González, L.L. Conz
 
 **A.D. McCue, K. Panda, S. Nuthikattu, S.G. Choudury, E.N. Thomas** and **R.K. Slotkin**. [ARGONAUTE6 bridges transposable element mRNA-derived siRNAs to the establishment of DNA methylation.](http://onlinelibrary.wiley.com/doi/10.15252/embj.201489499/abstract) **EMBO Journal** v34: 20-35.
 
-**D. Fultz, S.G. Choudury**, and **R.K. Slotkin**. [Silencing of Active Transposable Elements in Plants.](http://www.sciencedirect.com/science/article/pii/S1369526615000783) **Current Opinion in Plant Biology** v27: 67-76
+**D. Fultz, S.G. Choudury**, and **R.K. Slotkin**. [Silencing of Active Transposable Elements in Plants.](http://www.sciencedirect.com/science/article/pii/S1369526615000783) **Current Opinion in Plant Biology** v27: 67-76.
 
 # 2014
 
@@ -71,7 +71,7 @@ G. Martinez, P. Wolff, Z. Wang, J. Moreno-Romero, J. Santos-González, L.L. Conz
 
 # 2012
 
-**A.D. McCue, S. Nuthikattu, S.H. Reeder** and **R.K. Slotkin**.[Gene Expression and Stress Response Mediated by the Epigenetic Regulation of a Transposable Element Small RNA.](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002474) **PLoS Genetics** v8: e1002474
+**A.D. McCue, S. Nuthikattu, S.H. Reeder** and **R.K. Slotkin**.[Gene Expression and Stress Response Mediated by the Epigenetic Regulation of a Transposable Element Small RNA.](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002474) **PLoS Genetics** v8: e1002474.
 
 **G. Martinez** and **R.K. Slotkin**. [Developmental Reactivation of Transposable Element Silencing in Plants: Functional or Byproduct?](http://www.sciencedirect.com/science/article/pii/S1369526612001136) **Current Opinion in Plant Biology** v15: 496-502.
 
