@@ -8,6 +8,7 @@ permalink: /publications/
 An up to date full list of publications can be found on [Google Scholar.](https://scholar.google.com/citations?user=jkJlkSYAAAAJ&hl=en)
 
 **Bold text** indicates Slotkin lab [current member](https://slotkinlab.github.io/people/) or [alumni](https://slotkinlab.github.io/alumni/)
+
 *Italic text* indicates Slotkin lab undergraduate reseracher
 
 # 2020
