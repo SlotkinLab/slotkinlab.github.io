@@ -4,7 +4,7 @@ title: "Saima Shahid"
 author: Saima Shahid
 jobtitle: Postdoctoral Associate
 bio:
-excerpt: "Simons/LSRF fellow"
+excerpt: "Simons/LSRF Fellow"
 author_profile: true
 header:
   teaser: /assets/images/people/SS.jpg
