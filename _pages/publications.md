@@ -8,6 +8,7 @@ permalink: /publications/
 An up to date full list of publications can be found on [Google Scholar.](https://scholar.google.com/citations?user=jkJlkSYAAAAJ&hl=en)
 
 **Bold text** indicates Slotkin lab [current member](https://slotkinlab.github.io/people/) or [alumni](https://slotkinlab.github.io/alumni/)
+*Italic text* indicates Slotkin lab undergraduate reseracher
 
 # 2020
 
@@ -25,13 +26,13 @@ L. Ji, S.M. Mathioni, S. Johnson, D. Tucker, A.J. Bewick, K.D. Kim, **J. Daron**
 
 Y. Zhang, A. Ramming, L. Heinke, L. Altschmied, **R.K. Slotkin**, J.D. Becker, C. Kappel and M. Lenhard. [The poly(A) polymerase PAPS1 interacts with the RNA-directed DNA methylation pathway in sporophyte and pollen development.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.14348) **The Plant Journal** 99: 655-672.
 
-**S.G. Choudury, S. Shahid, D. Cuerda-Gil, K. Panda, A. Cullen, Q. Ashraf, M. Sigman, A.D. McCue** and **R.K. Slotkin**. [The RNA export factor ALY1 enables genome-wide RNA-directed DNA methylation.](http://www.plantcell.org/content/31/4/759) **The Plant Cell** 31: 759-774.
+**S.G. Choudury, S. Shahid, D. Cuerda-Gil, K. Panda**, *A. Cullen*, **Q. Ashraf, M. Sigman, A.D. McCue** and **R.K. Slotkin**. [The RNA export factor ALY1 enables genome-wide RNA-directed DNA methylation.](http://www.plantcell.org/content/31/4/759) **The Plant Cell** 31: 759-774.
 
 C.S. Calhoun, D.K. Crist, E.M. Knee, C.G. Price, B.E. Lindsey, D.M. Castrejon, E. Nagy, J.W. Mann, J.A. Miller, E. Grotewold, **R.K. Slotkin**, J. Brkljacic. [Chapter 2: The Genetic Resources of *Arabidopsis thaliana*.](https://www.taylorfrancis.com/books/e/9781315100999/chapters/10.1201/9781315100999-2) **The Biological Resources of Model Organisms**, Edited by R.L. Jarret and K. McCluskey. CRC Press.
 
 # 2018
 
-G. Martinez, P. Wolff, Z. Wang, J. Moreno-Romero, J. Santos-González, L.L. Conze, **C. DeFraia, R.K. Slotkin** and C. Köhler. [Paternal easiRNAs regulate parental genome dosage in Arabidopsis.](https://www.nature.com/articles/s41588-017-0033-4) **Nature Genetics** v50:193-198.
+**G. Martinez**, P. Wolff, Z. Wang, J. Moreno-Romero, J. Santos-González, L.L. Conze, **C. DeFraia, R.K. Slotkin** and C. Köhler. [Paternal easiRNAs regulate parental genome dosage in Arabidopsis.](https://www.nature.com/articles/s41588-017-0033-4) **Nature Genetics** v50:193-198.
 
 **R.K. Slotkin**. [The case for not masking away repetitive DNA.](https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-018-0120-9) **Mobile DNA** v9: 475.
 
@@ -55,7 +56,7 @@ G. Martinez, P. Wolff, Z. Wang, J. Moreno-Romero, J. Santos-González, L.L. Conz
 
 # 2015
 
-**A.D. McCue, K. Panda, S. Nuthikattu, S.G. Choudury, E.N. Thomas** and **R.K. Slotkin**. [ARGONAUTE6 bridges transposable element mRNA-derived siRNAs to the establishment of DNA methylation.](http://onlinelibrary.wiley.com/doi/10.15252/embj.201489499/abstract) **EMBO Journal** v34: 20-35.
+**A.D. McCue, K. Panda, S. Nuthikattu, S.G. Choudury**, *E.N. Thomas* and **R.K. Slotkin**. [ARGONAUTE6 bridges transposable element mRNA-derived siRNAs to the establishment of DNA methylation.](http://onlinelibrary.wiley.com/doi/10.15252/embj.201489499/abstract) **EMBO Journal** v34: 20-35.
 
 **D. Fultz, S.G. Choudury**, and **R.K. Slotkin**. [Silencing of Active Transposable Elements in Plants.](http://www.sciencedirect.com/science/article/pii/S1369526615000783) **Current Opinion in Plant Biology** v27: 67-76.
 
@@ -65,7 +66,7 @@ G. Martinez, P. Wolff, Z. Wang, J. Moreno-Romero, J. Santos-González, L.L. Conz
 
 # 2013
 
-**S. Nuthikattu, A.D. McCue, K. Panda, D. Fultz, C. DeFraia, E.N. Thomas** and **R.K. Slotkin**. [The Initiation of Epigenetic Silencing of Active Transposable Elements is Triggered by RDR6 and 21-22 Nucleotide Small Interfering RNAs.](http://www.plantphysiol.org/content/162/1/116.abstract) **Plant Physiology** v162: 116-131.
+**S. Nuthikattu, A.D. McCue, K. Panda, D. Fultz, C. DeFraia**, *E.N. Thomas* and **R.K. Slotkin**. [The Initiation of Epigenetic Silencing of Active Transposable Elements is Triggered by RDR6 and 21-22 Nucleotide Small Interfering RNAs.](http://www.plantphysiol.org/content/162/1/116.abstract) **Plant Physiology** v162: 116-131.
 
 **A.D. McCue, S. Nuthikattu**, and **R.K. Slotkin**. [Genome-wide Identification of Genes Regulated in trans by Transposable Element Small Interfering RNAs.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3817159/) **RNA Biology** v10: 1379-1395.
 
