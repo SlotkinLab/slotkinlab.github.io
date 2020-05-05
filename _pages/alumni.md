@@ -10,7 +10,7 @@ gallery:
     title: "Danforth Center, 2020"
   - url: /assets/images/group_pictures/2019_stanley.jpg
     image_path: /assets/images/group_pictures/2019_stanley.jpg
-    title: "Danforth Center, 2020"
+    title: "Danforth Center, 2019"
   - url: /assets/images/group_pictures/2019_christmas.jpg
     image_path: /assets/images/group_pictures/2019_christmas.jpg
     title: "Danforth Center, Winterfest 2019"
