@@ -7,6 +7,8 @@ permalink: /publications/
 ---
 An up to date full list of publications can be found on [Google Scholar.](https://scholar.google.com/citations?user=jkJlkSYAAAAJ&hl=en)
 
+**Bold text** indicates Slotkin lab [current member](https://slotkinlab.github.io/people/) or [alumni](https://slotkinlab.github.io/alumni/)
+
 # 2020
 
 **S. Shahid** and **R.K. Slotkin**. [The current revolution in transposable element biology enabled by long reads.](https://www.sciencedirect.com/science/article/pii/S136952661930127X) **Current Opinion in Plant Biology** v54: 49-56.
@@ -88,3 +90,5 @@ D. Lisch and **R.K. Slotkin**. [Strategies for Silencing and Escape: The Ancient
 # 2010
 
 **R.K. Slotkin**. [The Epigenetic Control of the Athila Family of Retrotransposons in Arabidopsis.](http://www.tandfonline.com/doi/10.4161/epi.5.6.12119) **Epigenetics** v5: 483-490.
+
+
