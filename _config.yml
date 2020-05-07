@@ -10,6 +10,7 @@ locale                   : "en-US"
 title                    : "The Slotkin Laboratory"  # the name of your site, e.g. ACME Corp.
 name                     : &name "Keith Slotkin" # &name is a YAML anchor which can be *referenced later
 description              : &description "Slotkin lab at Donald Danforth Plant Science Center"
+logo                     : "/assets/images/logo_lab.png"
 search                   : false # true, false (default)
 search_full_content      : false # true, false (default)
 # Social Sharing
