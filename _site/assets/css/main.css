@@ -555,7 +555,7 @@ tr, td, th { vertical-align: middle; }
 @media (min-width: 37.5em) { .masthead__menu .site-nav { float: right; } }
 .masthead__menu ul { margin: 0; padding: 0; clear: both; list-style-type: none; }
 
-.masthead__menu-item { display: block; list-style-type: none; white-space: nowrap; }
+.masthead__menu-item { display: block; list-style-type: none; white-space: nowrap; font-size: 0.75em; }
 .masthead__menu-item--lg { padding-right: 2em; font-weight: 700; }
 
 /* ========================================================================== NAVIGATION ========================================================================== */
