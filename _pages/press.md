@@ -9,7 +9,7 @@ permalink: /press/
 See the video [here](https://www.youtube.com/watch?v=PuFk6hnGV30&feature=youtu.be)
 
 <figure class="half">
-  <a href="https://www.youtube.com/watch?v=PuFk6hnGV30&feature=youtu.be"><img src="/assets/images/Hayden_MBO.jpg"></a>
+  <a href="https://www.youtube.com/watch?v=PuFk6hnGV30&feature=youtu.be"><img src=/assets/images/Hayden_MBO.jpg></a>
 </figure>
 ---
 #### *Danforth Center, Wash U Scientists Study Increasing Carbon Dioxide Levels On Plants*
