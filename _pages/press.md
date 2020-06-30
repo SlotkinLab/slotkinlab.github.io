@@ -5,7 +5,7 @@ title: Press
 permalink: /press/
 ---
 
-#### *Postdoc Kaushik Panda was interviewed by the St. Louis Dispatch about how critically important foreigners are to U.S. science*
+#### *Postdoc Kaushik Panda was interviewed by the St. Louis Post-Dispatch about how critically important foreigners are to U.S. science*
 See the article [here](https://www.stltoday.com/business/st-louis-scientists-say-trumps-order-limiting-foreign-workers-will-hurt-labs-stifle-american-ingenuity/article_17325736-1233-5760-a7a5-39310559d5eb.html)
 
 
