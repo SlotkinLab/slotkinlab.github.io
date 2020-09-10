@@ -90,4 +90,5 @@ gallery:
 ---
 
 # Lab pictures from each year
+(mouse over to see year)
 {% include gallery id="gallery" %}
