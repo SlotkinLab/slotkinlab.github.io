@@ -13,6 +13,8 @@ An up to date full list of publications can be found on [Google Scholar.](https:
 
 # 2020
 
+**K. Panda** and **R.K. Slotkin**. [Long-read cDNA Sequencing Enables a ‘Gene-Like’ Transcript Annotation of Transposable Elements.](http://www.plantcell.org/content/32/9/2687) **The Plant Cell** v32: 2687-98.
+
 **S. Shahid** and **R.K. Slotkin**. [The current revolution in transposable element biology enabled by long reads.](https://www.sciencedirect.com/science/article/pii/S136952661930127X) **Current Opinion in Plant Biology** v54: 49-56.
 
 A.D. Yates-Stewart, **J. Daron**, S. Wijeratne, **S. Shahid**, H.A. Edgington, **R.K. Slotkin** and A. Michel. [Soybean aphids adapted to host-plant resistance by down regulating putative effectors and up regulating transposable elements.](https://www.sciencedirect.com/science/article/pii/S0965174820300527) **Insect Biochemistry and Molecular Biology** 121: 103363.
