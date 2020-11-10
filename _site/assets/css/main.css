@@ -1272,3 +1272,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
   .page__hero-caption a { color: #000 !important; }
   /* Hide the following elements on print ========================================================================== */
   .masthead, .toc, .page__share, .page__related, .pagination, .ads, .page__footer, .page__comments-form, .author__avatar, .author__content, .author__urls-wrapper, .nav__list, .sidebar, .adsbygoogle { display: none !important; height: 1px !important; } }
+.pub p { clear: left; }
+.pub img { border-radius: 4px; height: 100px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.35); float: left; margin-right: 10px; margin-bottom: 20px; }
+.pub a > img:hover { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5) !important; }
+.pub .landscape { width: 100px; height: auto; }
