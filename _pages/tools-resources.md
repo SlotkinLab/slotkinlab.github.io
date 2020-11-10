@@ -9,7 +9,7 @@ Below are some of the tools and resources developed by the Slotkin Lab:
 
 #### Improved annotation of Arabidopsis Transposable Elements
 
-[Long-read cDNA Sequencing Enables a ‘Gene-Like’ Transcript Annotation of Arabidopsis Transposable Elements.](https://www.biorxiv.org/content/10.1101/2020.02.20.956714v1) K. Panda and R.K. Slotkin.  *Annotations are available on [GitHub](https://github.com/KaushikPanda1/AthalianaTETranscripts).*
+[Long-read cDNA Sequencing Enables a ‘Gene-Like’ Transcript Annotation of Arabidopsis Transposable Elements.](http://www.plantcell.org/content/32/9/2687) K. Panda and R.K. Slotkin.  *Annotations are available on [GitHub](https://github.com/KaushikPanda1/AthalianaTETranscripts).*
 
 ---
 #### Tools
