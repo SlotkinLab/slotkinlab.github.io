@@ -8,6 +8,10 @@ permalink: /press/
 #### *Graduate Student Diego Cuerda-Gil was named the 2021 William H. Danforth Plant Science Scholar!*
 See the full article [here](https://www.danforthcenter.org/news/meet-the-2021-william-h-danforth-plant-science-fellow/)
 
+<figure class="half">
+  <a href="https://www.danforthcenter.org/news/meet-the-2021-william-h-danforth-plant-science-fellow/"><img src="/assets/images/DCG in NM.png"></a>
+</figure>
+
 #### *Postdoc Kaushik Panda was interviewed by the St. Louis Post-Dispatch about how critically important foreigners are to U.S. science*
 See the article [here](https://www.stltoday.com/business/st-louis-scientists-say-trumps-order-limiting-foreign-workers-will-hurt-labs-stifle-american-ingenuity/article_17325736-1233-5760-a7a5-39310559d5eb.html)
 
