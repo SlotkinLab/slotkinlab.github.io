@@ -59,6 +59,7 @@ gallery:
 |**Dalen Fultz** (Ohio State MCDB Interdisciplinary Graduate Program), Presidential Research Fellowship, Cellular, Molecular & Biochemical Sciences (CMBP) Training Grant Fellow | 2012-2017| Postdoc with Craig Pikaard, University of Indiana/HHMI|
 |**Kaushik Panda** (Ohio State Department of Molecular Genetics), Presidential Research Fellowship|2012-2017|Postdoc in the Slotkin lab|
 |**Sarah Choudury** (Ohio State MCDB Interdisciplinary Graduate Program), Cellular, Molecular & Biochemical Sciences (CMBP) Training Grant Fellow, Center for RNA Biology Fellowship|2014-2018| Research Scientist in Scott Harper’s lab at Nationwide Children’s Hospital|
+|**Meredith Sigman** (Ohio State Department of Molecular Genetics), Cellular, Molecular & Biochemical Sciences (CMBP) Training Grant Fellow, Ohio State University Fellowship|2014-2021| Research Scientist at Bayer Crop Science|
 
 ### *Undergraduate Students*
 
@@ -85,7 +86,7 @@ gallery:
 |**Sarah Reeder**|2010-2013| [Lab manager in the Dobritsa pollen lab at Ohio State](https://molgen.osu.edu/people/dobritsa.1)|
 |**Parker Messerli**|2018-2019||
 |**Kim Maxson-Stein**|2018-2019||
-
+|**Hayden Payne**|2019-2021|| Graduate student in the [Department of Plant Sciences at the University of Arizona](https://cals.arizona.edu/spls/home)
 
 ---
 
