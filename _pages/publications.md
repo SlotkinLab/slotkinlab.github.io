@@ -11,6 +11,12 @@ An up to date full list of publications can be found on [Google Scholar.](https:
 
 *Italic text* indicates Slotkin lab undergraduate reseracher
 
+# 2021
+
+**Y.-H. Hung** and **R.K. Slotkin**. [The initiation of RNA interference (RNAi) in plants](https://www.sciencedirect.com/science/article/pii/S1369526621000145) **Current Opinion in Plant Biology** v61:102014.
+
+M.L. Annacondia, D. Markovic, J.L. Reig-Valiente, V. Scaltsoyiannes, C.M. Pieterse, V. Ninkovic, **R.K. Slotkin** and G. Martinez. [Aphid feeding induces the relaxation of epigenetic control and the associated regulation of the defense response in Arabidopsis](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.17226) **New Phytologist** 230:1185-1200.
+
 # 2020
 
 **K. Panda** and **R.K. Slotkin**. [Long-read cDNA Sequencing Enables a ‘Gene-Like’ Transcript Annotation of Transposable Elements.](http://www.plantcell.org/content/32/9/2687) **The Plant Cell** v32: 2687-98.
@@ -23,6 +29,14 @@ C. Warman, **K. Panda**, Z. Vejlupkova, S. Hokin, E. Unger-Wallace, R.A. Cole, A
 
 **K. Panda**, **A.D. McCue** and **R.K. Slotkin**. [Arabidopsis RNA Polymerase IV generates 21-22 nucleotide small RNAs that can participate in RNA-directed DNA methylation and may regulate genes.](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0417) **Philosophical Transactions of the Royal Society B** 375: e0417.
 
+Y. Lai, X.M. Lu, **J. Daron**, S. Pan, J. Wang, W. Wang, T. Tsuchiya, E. Holub, J.M. McDowell, **R.K. Slotkin**, K.G. LeRoch, T. Eulgem. [The Arabidopsis PHD-finger protein EDM2 has multiple roles in balancing NLR immune receptor gene expression.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008993) **PLoS Genetics** 16:e1008993.
+
+J. Antunez-Sanchez, M. Naish, J.S. Ramirez-Prado, S. Ohno, Y. Huang, A. Dawson, K. Opassathian, D. Manza-Mianza, F. Ariel, C. Raynaud, A. Wibowo, **J. Daron**, M. Ueda, D. Latrasse, **R.K. Slotkin**, D. Weigel, M. Benhamed, J. Gutierrez-Marcos. [A new role for histone demethylases in the maintenance of genome integrity](https://elifesciences.org/articles/58533) **eLife** 9:e58533.
+
+**P. Liu** and **R.K. Slotkin**. [Commentary: Cis-regulatory units of grass genomes identified by their DNA methylation](https://www.pnas.org/content/117/41/25198) **Proceedings of the National Academy of Sciences** v117: 24198-99. 		
+
+G. Parry, N.J. Provart, S.M. Brady, B. Uzilday, The Multinational Arabidopsis Steering Committee. [Current status of the multinational Arabidopsis community](https://onlinelibrary.wiley.com/doi/10.1002/pld3.248) Plant Direct v4: 1-9. 
+
 # 2019
 
 L. Ji, S.M. Mathioni, S. Johnson, D. Tucker, A.J. Bewick, K.D. Kim, **J. Daron**, **R.K. Slotkin**, S.A. Jackson, W.A. Parrot, B.C. Meyers, R.J. Schmitz. [Genome-wide reinforcement of DNA methylation occurs during somatic embryogenesis in soybean.](http://www.plantcell.org/content/31/10/2315) **The Plant Cell** 31: 2315-2331.
@@ -32,6 +46,9 @@ Y. Zhang, A. Ramming, L. Heinke, L. Altschmied, **R.K. Slotkin**, J.D. Becker, C
 **S.G. Choudury, S. Shahid, D. Cuerda-Gil, K. Panda**, *A. Cullen*, **Q. Ashraf, M. Sigman, A.D. McCue** and **R.K. Slotkin**. [The RNA export factor ALY1 enables genome-wide RNA-directed DNA methylation.](http://www.plantcell.org/content/31/4/759) **The Plant Cell** 31: 759-774.
 
 C.S. Calhoun, D.K. Crist, E.M. Knee, C.G. Price, B.E. Lindsey, D.M. Castrejon, E. Nagy, J.W. Mann, J.A. Miller, E. Grotewold, **R.K. Slotkin**, J. Brkljacic. [Chapter 2: The Genetic Resources of *Arabidopsis thaliana*.](https://www.taylorfrancis.com/books/e/9781315100999/chapters/10.1201/9781315100999-2) **The Biological Resources of Model Organisms**, Edited by R.L. Jarret and K. McCluskey. CRC Press.
+
+International Arabidopsis Informatics Consortium. [Arabidopsis Bioinformatics Resources: The Current State, Challenges, and Priorities for the Future](https://onlinelibrary.wiley.com/doi/full/10.1002/pld3.109) **Plant Direct** v3: 1-7. 
+
 
 # 2018
 
