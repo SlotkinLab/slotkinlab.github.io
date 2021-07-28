@@ -2,7 +2,7 @@
 layout: archive
 title: "Kaushik Panda"
 author: Kaushik Panda
-jobtitle: Postdoctoral Associate
+jobtitle: Research Scientist
 bio:
 excerpt: ""
 author_profile: true
