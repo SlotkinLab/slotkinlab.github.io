@@ -35,7 +35,7 @@ J. Antunez-Sanchez, M. Naish, J.S. Ramirez-Prado, S. Ohno, Y. Huang, A. Dawson, 
 
 **P. Liu** and **R.K. Slotkin**. [Commentary: Cis-regulatory units of grass genomes identified by their DNA methylation](https://www.pnas.org/content/117/41/25198) **Proceedings of the National Academy of Sciences** v117: 24198-99. 		
 
-G. Parry, N.J. Provart, S.M. Brady, B. Uzilday, The Multinational Arabidopsis Steering Committee. [Current status of the multinational Arabidopsis community](https://onlinelibrary.wiley.com/doi/10.1002/pld3.248) Plant Direct v4: 1-9. 
+G. Parry, N.J. Provart, S.M. Brady, B. Uzilday, The Multinational Arabidopsis Steering Committee. [Current status of the multinational Arabidopsis community](https://onlinelibrary.wiley.com/doi/10.1002/pld3.248) **Plant Direct** v4: 1-9. 
 
 # 2019
 
