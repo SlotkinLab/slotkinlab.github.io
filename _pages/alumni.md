@@ -86,7 +86,7 @@ gallery:
 |**Sarah Reeder**|2010-2013| [Lab manager in the Dobritsa pollen lab at Ohio State](https://molgen.osu.edu/people/dobritsa.1)|
 |**Parker Messerli**|2018-2019||
 |**Kim Maxson-Stein**|2018-2019||
-|**Hayden Payne**|2019-2021|| Graduate student in the [Department of Plant Sciences at the University of Arizona](https://cals.arizona.edu/spls/home)
+|**Hayden Payne**|2019-2021| Graduate student in the [Department of Plant Sciences at the University of Arizona](https://cals.arizona.edu/spls/home)|
 
 ---
 
