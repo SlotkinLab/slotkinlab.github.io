@@ -5,6 +5,9 @@ title: Alumni
 description:
 permalink: /alumni/
 gallery:
+  - url: /assets/images/group_pictures/2021.jpg
+    image_path: /assets/images/group_pictures/2021.jpg
+    title: "Danforth Center, 2021"
   - url: /assets/images/group_pictures/2020.jpg
     image_path: /assets/images/group_pictures/2020.jpg
     title: "Danforth Center, 2020"
