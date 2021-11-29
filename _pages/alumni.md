@@ -52,6 +52,7 @@ gallery:
 | **Christopher DeFraia** (Pelotonia Cancer Research Fellow) | 2010-2013| [Associate Professor of Biological Sciences at Ferris State University](https://www.ferris.edu/arts-sciences/profiles/biological-sciences/christopher-defraia.html) |
 **Germán Martinez-Arías** (Marie Curie Postdoctoral Fellow) |2011-2015|[Independent Associate Senior Lecturer (research position) at the Swedish University of Agricultural Sciences (SLU), Uppsala, Sweden](https://germanmartinezgroup.wordpress.com)|
 **Josquin Daron**| 2015-2017|[Marie Curie Postdoctoral Fellow, MIVEGEC laboratory of Infectious Diseases and Vectors: Ecology, Genetics, Evolution and Control, National Center for Scientific Research (CNRS), Montpellier France](https://www.mivegec.ird.fr/en/component/content/article?id=1192&Itemid=&selected=451%20)|
+**Andrea McCue**| 2017-2021| Scientist at [Battelle](https://www.battelle.org) in Columbus, Ohio|
 
 ### *Graduate Students*
 
