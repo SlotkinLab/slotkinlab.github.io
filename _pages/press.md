@@ -7,7 +7,7 @@ permalink: /press/
 
 #### *Graduate Students Meredith Sigman and Diego Cuerda-Gil complete their Ph.D. from The Ohio State University* 
 <figure class="half">
-  <img src="/assets/images/DCG-2021.jpg"></a>
+  <img src="/assets/images/DCG-2021.jpg">
 </figure>
 
 #### *Graduate Student Diego Cuerda-Gil was named the 2021 William H. Danforth Plant Science Scholar!*
