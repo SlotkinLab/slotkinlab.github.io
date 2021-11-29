@@ -12,10 +12,13 @@ An up to date full list of publications can be found on [Google Scholar.](https:
 *Italic text* indicates Slotkin lab undergraduate reseracher
 
 # 2021
+**M. Sigman, K. Panda,** *R. Kirchner*, **L. McLain, H. Payne, J. Peasari,** A. Husbands, **R.K. Slotkin** and **A.D. McCue**. [An siRNA-guided ARGONAUTE protein directs RNA polymerase V to initiate DNA methylation](https://www.nature.com/articles/s41477-021-01008-7)  **Nature Plants** 7:1461–1474.
 
 **Y.-H. Hung** and **R.K. Slotkin**. [The initiation of RNA interference (RNAi) in plants](https://www.sciencedirect.com/science/article/pii/S1369526621000145) **Current Opinion in Plant Biology** v61:102014.
 
 M.L. Annacondia, D. Markovic, J.L. Reig-Valiente, V. Scaltsoyiannes, C.M. Pieterse, V. Ninkovic, **R.K. Slotkin** and G. Martinez. [Aphid feeding induces the relaxation of epigenetic control and the associated regulation of the defense response in Arabidopsis](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.17226) **New Phytologist** 230:1185-1200.
+
+C. Oliver, M.L. Annacondia, Z. Wang, P.E. Jullien, **R.K. Slotkin**, C. Kohler and G. Martinez. [The miRNome function transitions from regulating developmental genes to transposable elements during pollen maturation](https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koab280/6424912)  **The Plant Cell**.
 
 # 2020
 
