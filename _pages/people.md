@@ -9,7 +9,7 @@ show_excerpts: true
 ---
 [![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/people/KS.jpg)](https://www.danforthcenter.org/our-work/principal-investigators/r-keith-slotkin/){: .align-left}
 ### [**R. Keith Slotkin**](https://www.danforthcenter.org/our-work/principal-investigators/r-keith-slotkin/)  
-Associate Member and PI, [Donald Danforth Plant Science Center](https://www.danforthcenter.org/)  
+Full Member and Principal Investigator, [Donald Danforth Plant Science Center](https://www.danforthcenter.org/)  
 Associate Professor, [Division of Biological Sciences, University of Missouri-Columbia](https://biology.missouri.edu)  
 Member, [Institute for Data Science and Informatics, University of Missouri](https://muidsi.missouri.edu)
 
