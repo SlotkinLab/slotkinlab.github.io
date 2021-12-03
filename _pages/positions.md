@@ -17,5 +17,5 @@ For Computational Biologists and Bioinforatics Students, apply through the [MU I
 
 For 'wet-bench' and other Biologists, apply through the [Division of Biological Sciences](https://biology.missouri.edu/index.php/grad-program)
 
-For Undergraduates, Interns and other job types, please directly [send an email to PI Slotkin](mailto:kslotkin@danforthcenter.org).
+For Undergraduates, Interns and other job types, please directly [send an email to PI Slotkin](mailto:kslotkin@danforthcenter.org) or check the [Danforth Center's Career Page](https://www.danforthcenter.org/careers/).
 
