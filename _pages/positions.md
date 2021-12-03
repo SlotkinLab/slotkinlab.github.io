@@ -14,9 +14,9 @@ We are currently recruiting a new Postdoc Researcher to the Slotkin lab! See the
 
 We are currently recruiting new Graduate Students from the University of Missouri
 
-For <i>Computational Biologists</i> and <i>Bioinforatics</i> Students, apply through the [MU Institute for Data Science & Informtics](https://muidsi.missouri.edu)
+For <i>Computational Biologists</i> and <i>Bioinformatics</i> Students, apply through the [MU Institute for Data Science & Informtics](https://muidsi.missouri.edu)
 
 For <i>Molecular Biologists</i>, <i>Geneticists</i> and other Biologists, apply through the [Division of Biological Sciences](https://biology.missouri.edu/index.php/grad-program)
 
-For Undergraduates, Interns and other job types, please directly [send an email to PI Slotkin](mailto:kslotkin@danforthcenter.org) or check the [Danforth Center's Career Page](https://www.danforthcenter.org/careers/).
+For <i>Undergraduates</i>, <i>Internships</i>, <i>Sabbaticals</i> and other job types, please directly [send an email to PI Slotkin](mailto:kslotkin@danforthcenter.org) or check the [Danforth Center's Career Page](https://www.danforthcenter.org/careers/).
 
