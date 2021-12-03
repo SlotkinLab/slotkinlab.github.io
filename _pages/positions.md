@@ -12,9 +12,9 @@ We are currently recruiting a new Postdoc Researcher to the Slotkin lab! See the
 
 <u>Graduate Students</u>
 
-We are currently recruiting new Graduate Students from the University of Missouri
+We are currently recruiting new Graduate Students from the [University of Missouri](https://missouri.edu)
 
-For <i>Computational Biologists</i> and <i>Bioinformatics</i> Students, apply through the [MU Institute for Data Science & Informtics](https://muidsi.missouri.edu)
+For <i>Computational Biologists</i> and <i>Bioinformatics</i> Students, apply through the [MU Institute for Data Science & Informatics](https://muidsi.missouri.edu)
 
 For <i>Molecular Biologists</i>, <i>Geneticists</i> and other Biologists, apply through the [Division of Biological Sciences](https://biology.missouri.edu/index.php/grad-program)
 
