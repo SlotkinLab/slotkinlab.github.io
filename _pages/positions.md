@@ -18,5 +18,5 @@ For <i>Computational Biologists</i> and <i>Bioinformatics</i> Students, apply th
 
 For <i>Molecular Biologists</i>, <i>Geneticists</i> and other Biologists, apply through the [Division of Biological Sciences](https://biology.missouri.edu/index.php/grad-program)
 
-For <i>Undergraduates</i>, <i>Internships</i>, <i>Sabbaticals</i> and other job types, please directly [send an email to PI Slotkin](mailto:kslotkin@danforthcenter.org) or check the [Danforth Center's Career Page](https://www.danforthcenter.org/careers/).
+For <u>Undergraduates</u>, <u>Internships</u>, <u>Sabbaticals</u> and other job types, please directly [send an email to PI Slotkin](mailto:kslotkin@danforthcenter.org) or check the [Danforth Center's Career Page](https://www.danforthcenter.org/careers/).
 
