@@ -16,6 +16,12 @@ permalink: /press/
   <img src="/assets/images/DCG-2021.jpg">
 </figure>
 
+#### *Postdoc Marianne Kramer led the Slotkin lab team through the NSF I-Corps training*
+[link to final video summary](https://www.youtube.com/watch?v=iHvaI_m5c9s)
+<figure class="half">
+  <img src="/assets/images/I-Corps.jpg">
+</figure>
+
 #### *Graduate Student Diego Cuerda-Gil was named the 2021 William H. Danforth Plant Science Scholar!*
 See the full article [here](https://www.danforthcenter.org/news/meet-the-2021-william-h-danforth-plant-science-fellow/)
 
