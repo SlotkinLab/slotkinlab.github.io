@@ -7,9 +7,9 @@ permalink: /tools-resources/
 ---
 Below are some of the tools and resources developed by the Slotkin Lab:
 
-#### Protein-RNA tethering plasmids and seeds
+#### Tools for *in vivo* Protein-RNA tethering 
 
-Available from the ABRC: [Link](https://abrc.osu.edu/stocks?search%5Btaxon%5D=Arabidopsis+thaliana&search%5Bsearch_text%5D=Slotkin&search%5Bsearch_fields%5D=Donor+last+name)
+Plasmids and seeds available from the ABRC: [Link](https://abrc.osu.edu/stocks?search%5Btaxon%5D=Arabidopsis+thaliana&search%5Bsearch_text%5D=Slotkin&search%5Bsearch_fields%5D=Donor+last+name)
 From: [A plant tethering system for the functional study of protein-RNA interactions in vivo](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-022-00907-w) (2022). D. Cuerda-Gil, Y.-H. Hung, K. Panda and R.K. Slotkin. Plant Methods 18: 75.
 
 #### Improved annotation of Arabidopsis Transposable Elements
