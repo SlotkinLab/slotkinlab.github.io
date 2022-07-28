@@ -12,6 +12,8 @@ show_excerpts: true
 Full Member and Principal Investigator, [Donald Danforth Plant Science Center](https://www.danforthcenter.org/)  
 Associate Professor, [Division of Biological Sciences, University of Missouri-Columbia](https://biology.missouri.edu)  
 Member, [Institute for Data Science and Informatics, University of Missouri](https://muidsi.missouri.edu)
+Honorary Adjunct Professor, [Washington University in St. Louis](https://wustl.edu), [Department of Biology](https://biology.wustl.edu)
+[Division of Biology & Biomedical Sciences Graduate Program](https://dbbs.wustl.edu/Pages/index.aspx)
 
 <a href="http://scholar.google.com/citations?user=jkJlkSYAAAAJ" itemprop="sameAs" rel="nofollow noopener noreferrer">
   <i class="fab fa-google" aria-hidden="true"></i></a>
