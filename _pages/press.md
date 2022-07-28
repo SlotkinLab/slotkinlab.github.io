@@ -4,9 +4,9 @@ classes: wide
 title: Press
 permalink: /press/
 ---
-#### *Postdoctoral Fellow Saima Shahid departed for her new faculty position at Oklahoma State University, in the Department of [Plant Biology, Ecology and Evolution](https://plantbio.okstate.edu)
+#### *Postdoctoral Fellow Saima Shahid departed for her new faculty position at Oklahoma State University, in the Department of [Plant Biology, Ecology and Evolution](https://plantbio.okstate.edu)*
 
-#### *Keith took part in the NSF-sponsored 'Support for the Future of Farming' Congressional House Briefing, “Advancing Agricultural Adaptations – at the Intersection of Climate Change and Agriculture”. [Link](https://bcove.video/3I3U6qN) to video   
+#### *Keith took part in the NSF-sponsored 'Support for the Future of Farming' Congressional House Briefing, “Advancing Agricultural Adaptations – at the Intersection of Climate Change and Agriculture”. [Link](https://bcove.video/3I3U6qN) to video*   
 
 #### *Graduate Students Meredith Sigman and Diego Cuerda-Gil complete their Ph.D. from The Ohio State University* 
 <figure class="half">
