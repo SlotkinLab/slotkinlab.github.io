@@ -21,6 +21,6 @@ feature_row:
 
   </h1>
 
-Welcome to the Slotkin laboratory! We are located at the [Donald Danforth Plant Science Center](https://www.danforthcenter.org) in St. Louis, Missouri. We are also affiliated with the [Division of Biological Sciences at the University of Missouri-Columbia](https://biology.missouri.edu). Follow this [link to our lab’s page with the Danforth Center’s website](https://www.danforthcenter.org/our-work/principal-investigators/r-keith-slotkin/). For our latest news and updates, follow [Keith’s Twitter account](https://twitter.com/Slotkin_Lab).
+Welcome to the Slotkin laboratory! We are located at the [Donald Danforth Plant Science Center](https://www.danforthcenter.org) in St. Louis, Missouri. We are also a part of the [Division of Biological Sciences at the University of Missouri-Columbia](https://biology.missouri.edu) and affiliated with the [Department of Biology at Washington University in St. Louis](https://biology.wustl.edu). Follow this [link to our lab’s page on the Danforth Center’s website](https://www.danforthcenter.org/our-work/principal-investigators/r-keith-slotkin/). For our latest news and updates, follow [Keith’s Twitter account](https://twitter.com/Slotkin_Lab).
 
 {% include feature_row %}
