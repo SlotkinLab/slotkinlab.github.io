@@ -18,14 +18,16 @@ If you need help with one of these topics, please feel free to email us and requ
 
 See our [Publications](/publications/), [Press](/press/) and [Resources](/tools-resources) pages for links to our research articles, while these six below are good representations of our opinions and viewpoints:
 
-Shahid, S., Slotkin, R. (2020). [The current revolution in transposable element biology enabled by long reads.](https://dx.doi.org/10.1016/j.pbi.2019.12.012) Current Opinion in Plant Biology 54, 49-56.
+Hung, Y.-H., Slotkin, R.K. (2021). [The initiation of RNA interference (RNAi) in plants.](https://www.sciencedirect.com/science/article/pii/S1369526621000145) Current Opinion in Plant Biology 61, 102014.
 
-Slotkin, R. (2018). [The case for not masking away repetitive DNA.](https://dx.doi.org/10.1186/s13100-018-0120-9) Mobile DNA 9, 475.
+Shahid, S., Slotkin, R.K. (2020). [The current revolution in transposable element biology enabled by long reads.](https://dx.doi.org/10.1016/j.pbi.2019.12.012) Current Opinion in Plant Biology 54, 49-56.
 
-Cuerda-Gil, D., Slotkin, R. (2016). [Non-canonical RNA-directed DNA methylation.](https://dx.doi.org/10.1038/nplants.2016.163) Nature Plants 2(11), 16163.
+Slotkin, R.K. (2018). [The case for not masking away repetitive DNA.](https://dx.doi.org/10.1186/s13100-018-0120-9) Mobile DNA 9, 475.
 
-Sigman, M., Slotkin, R. (2016). [The First Rule of Plant Transposable Element Silencing: Location, Location, Location.](https://dx.doi.org/10.1105/tpc.15.00869) The Plant Cell 28(2), 304-313.
+Cuerda-Gil, D., Slotkin, R.K. (2016). [Non-canonical RNA-directed DNA methylation.](https://dx.doi.org/10.1038/nplants.2016.163) Nature Plants 2(11), 16163.
 
-Fultz, D., Choudury, S., Slotkin, R. (2015). [Silencing of Active Transposable Elements in Plants.](https://dx.doi.org/10.1016/j.pbi.2015.05.027) Current Opinion in Plant Biology 27, 67-76.
+Sigman, M., Slotkin, R.K. (2016). [The First Rule of Plant Transposable Element Silencing: Location, Location, Location.](https://dx.doi.org/10.1105/tpc.15.00869) The Plant Cell 28(2), 304-313.
 
-Martinez, G., Slotkin, R. (2012). [Developmental relaxation of transposable element silencing in plants: functional or byproduct?](https://dx.doi.org/10.1016/j.pbi.2012.09.001Geneticists) Current Opinion in Plant Biology 15, 496-502.
+Fultz, D., Choudury, S., Slotkin, R.K. (2015). [Silencing of Active Transposable Elements in Plants.](https://dx.doi.org/10.1016/j.pbi.2015.05.027) Current Opinion in Plant Biology 27, 67-76.
+
+Martinez, G., Slotkin, R.K. (2012). [Developmental relaxation of transposable element silencing in plants: functional or byproduct?](https://dx.doi.org/10.1016/j.pbi.2012.09.001Geneticists) Current Opinion in Plant Biology 15, 496-502.
