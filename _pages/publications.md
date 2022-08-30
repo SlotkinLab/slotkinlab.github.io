@@ -14,6 +14,8 @@ An up to date full list of publications can be found on [Google Scholar.](https:
 # 2022
 **D. Cuerda-Gil, Y.-H. Hung, K. Panda** and **R.K. Slotkin**. [A plant tethering system for the functional study of protein-RNA interactions in vivo](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-022-00907-w) **Plant Methods** 18:75.
 
+C. Oliver, M.L. Annacondia, Z. Wang, P.E. Jullien, **R.K. Slotkin**, C. Kohler and G. Martinez. [The miRNome function transitions from regulating developmental genes to transposable elements during pollen maturation](https://academic.oup.com/plcell/article/34/2/784/6424912?login=true) **The Plant Cell** 34:784-801.
+
 # 2021
 **M. Sigman, K. Panda,** *R. Kirchner*, **L. McLain, H. Payne, J. Peasari,** A. Husbands, **R.K. Slotkin** and **A.D. McCue**. [An siRNA-guided ARGONAUTE protein directs RNA polymerase V to initiate DNA methylation](https://www.nature.com/articles/s41477-021-01008-7)  **Nature Plants** 7:1461–1474.
 
