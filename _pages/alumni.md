@@ -65,6 +65,7 @@ gallery:
 |**Kaushik Panda** (Ohio State Department of Molecular Genetics), Presidential Research Fellowship|2012-2017|Postdoc in the Slotkin lab|
 |**Sarah Choudury** (Ohio State MCDB Interdisciplinary Graduate Program), Cellular, Molecular & Biochemical Sciences (CMBP) Training Grant Fellow, Center for RNA Biology Fellowship|2014-2018| Postdoc in Aman Husbands' laboratory at Ohio State / University of Pennsylvania |
 |**Meredith Sigman** (Ohio State Department of Molecular Genetics), Cellular, Molecular & Biochemical Sciences (CMBP) Training Grant Fellow, Ohio State University Fellowship|2014-2021| Research Scientist at Bayer Crop Science|
+|**Diego Cuerda-Gil** (Ohio State Department of Molecular Genetics), CONACyT Fellowship from Mexico, William H. Danforth Plant Science Fellow |2016-2021| Research Scientist at Bayer Crop Science|
 
 ### *Undergraduate Students*
 
