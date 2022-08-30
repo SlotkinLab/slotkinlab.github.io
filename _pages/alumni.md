@@ -82,6 +82,8 @@ gallery:
 |**Ben Smith**|2017-2018| Graduated from Ohio State Department of Molecular Genetics, Honors College|
 |**Phillip Woolley**, Danforth Center Research Experiences for Undergraduates program| 2019| University of Texas-Austin|
 |**Rachel Kirchner**| 2017-2020| Graduated Honors Research Distinction from the Ohio State Department of Molecular Genetics. Currently in the M.D./Ph.D. program at University of Wisconsin-Madison|
+|**Eric Wang**, Danforth Center Research Experiences for Undergraduates program| 2022 | Wake Forest University|
+|**Harper Lowrey**, Danforth Center Research Experiences for Undergraduates program| 2022 | Yale University|
 
 ### *Lab Staff*
 
