@@ -53,6 +53,7 @@ gallery:
 **Germán Martinez-Arías** (Marie Curie Postdoctoral Fellow) |2011-2015|[Independent Associate Senior Lecturer (research position) at the Swedish University of Agricultural Sciences (SLU), Uppsala, Sweden](https://germanmartinezgroup.wordpress.com)|
 **Josquin Daron**| 2015-2017|[Marie Curie Postdoctoral Fellow, MIVEGEC laboratory of Infectious Diseases and Vectors: Ecology, Genetics, Evolution and Control, National Center for Scientific Research (CNRS), Montpellier France](https://www.mivegec.ird.fr/en/component/content/article?id=1192&Itemid=&selected=451%20)|
 **Andrea McCue**| 2017-2021| Scientist at [Battelle](https://www.battelle.org) in Columbus, Ohio|
+**Saima Shahid** (Life Science Research Foundation Fellow) |2017-2022| [Assistant Professor in the Department of Plant Biology, Ecology and Evolution at Oklahoma State University](https://plantbio.okstate.edu/faculty/faculty)|
 
 ### *Graduate Students*
 
@@ -91,7 +92,7 @@ gallery:
 |**Parker Messerli**|2018-2019||
 |**Kim Maxson-Stein**|2018-2019||
 |**Hayden Payne**|2019-2021| Graduate student in the [Department of Plant Sciences at the University of Arizona](https://cals.arizona.edu/spls/home)|
-
+|**Lauren McLain** |2019-2022| Researcher at Bayer Crop Science 
 ---
 
 # Lab pictures from each year
