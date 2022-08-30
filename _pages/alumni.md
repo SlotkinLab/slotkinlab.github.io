@@ -92,8 +92,8 @@ gallery:
 |**Parker Messerli**|2018-2019||
 |**Kim Maxson-Stein**|2018-2019||
 |**Hayden Payne**|2019-2021| Graduate student in the [Department of Plant Sciences at the University of Arizona](https://cals.arizona.edu/spls/home)|
-|**Lauren McLain** |2019-2022| Researcher at Bayer Crop Science 
----
+|**Lauren McLain** |2019-2022| Researcher at Bayer Crop Science|
+
 
 # Lab pictures from each year
 (mouse over to see year)
