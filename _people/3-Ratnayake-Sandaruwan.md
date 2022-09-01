@@ -7,6 +7,6 @@ bio:
 excerpt: ""
 author_profile: true
 header:
-  teaser: /assets/images/people/SR.jpg
+  teaser: /assets/images/people/SR2.jpg
 
 ---
