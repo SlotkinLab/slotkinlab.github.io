@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  image: /assets/images/2020_ddpsc.jpg
+  image: /assets/images/group_2022.jpg
 feature_row:
   - image_path: /assets/images/flower.svg
     alt: "research"
