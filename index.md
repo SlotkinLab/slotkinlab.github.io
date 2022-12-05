@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  image: /assets/images/group_2022.jpg
+  image: /assets/images/group_2023.jpg
 feature_row:
   - image_path: /assets/images/flower.svg
     alt: "research"
