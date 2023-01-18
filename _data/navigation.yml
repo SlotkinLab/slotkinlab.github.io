@@ -6,6 +6,8 @@ main:
     url: /people/
   - title: "Publications"
     url: /publications/
+  - title: "Outreach"
+    url: /outreach/
   - title: "Press"
     url: /press/
   - title: "Tools & Resources"
@@ -14,5 +16,3 @@ main:
     url: /positions/
   - title: "Alumni"
     url: /alumni/
-  - title: "Outreach"
-    url: /outreach/
