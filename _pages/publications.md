@@ -12,6 +12,9 @@ An up to date full list of publications can be found on [Google Scholar.](https:
 *Italic text* indicates Slotkin lab undergraduate reseracher
 
 # 2022
+
+**P. Liu, D. Cuerda-Gil, S. Shahid** and **R.K. Slotkin**. [The Epigenetic Control of the Transposable Element Life Cycle in Plant Genomes and Beyond](https://www.annualreviews.org/doi/abs/10.1146/annurev-genet-072920-015534) **Annual Review of Genetics** 56:63-87.
+
 **D. Cuerda-Gil, Y.-H. Hung, K. Panda** and **R.K. Slotkin**. [A plant tethering system for the functional study of protein-RNA interactions in vivo](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-022-00907-w) **Plant Methods** 18:75.
 
 C. Oliver, M.L. Annacondia, Z. Wang, P.E. Jullien, **R.K. Slotkin**, C. Kohler and G. Martinez. [The miRNome function transitions from regulating developmental genes to transposable elements during pollen maturation](https://academic.oup.com/plcell/article/34/2/784/6424912?login=true) **The Plant Cell** 34:784-801.
