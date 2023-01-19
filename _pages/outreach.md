@@ -5,28 +5,28 @@ title: Outreach
 description:
 permalink: /outreach/
 ---
-The Slotkin laboratory is dedicated to diversifying biology.
-Below are some of the Outreach & Education activities that we lead:
+#### The Slotkin laboratory is dedicated to diversifying biology.
+#### Below are some of the Outreach & Education activities that we either lead or participate in:
 
-#### Resources for *in vivo* Protein-RNA tethering 
+#### [Mutant Millets outreach](https://mutantmillets.org), serving St. Louis region Middle & High Schools.
+<figure>
+  <a href="https://mutantmillets.org"><img src="https://mutantmillets.files.wordpress.com/2014/01/cropped-header4.jpg"></a>
+</figure>
+Keith Slotkin is the lead-PI of this Outreach Project that is taught in ~10 schools per semester. The students grow EMS populations of Setaria and hunt for mutant plants! This project is a collaboration with the Danforth Center's [Education Research and Outreach Lab](https://www.danforthcenter.org/our-work/education-outreach/) and is supported by a NSF's Understanding the Rules of Life grant.   
 
-Plasmids and seeds available from the ABRC: [Link](https://abrc.osu.edu/stocks?search%5Btaxon%5D=Arabidopsis+thaliana&search%5Bsearch_text%5D=Slotkin&search%5Bsearch_fields%5D=Donor+last+name)
-From: [A plant tethering system for the functional study of protein-RNA interactions in vivo](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-022-00907-w) (2022). D. Cuerda-Gil, Y.-H. Hung, K. Panda and R.K. Slotkin. Plant Methods 18: 75.
+#### Anyone Can Be A Scientist When They Use the Scientific Method! 
 
-#### Improved annotation of Arabidopsis Transposable Elements
+This is a one-hour classroom excercise taught by Keith Slotkin suitable for Middle or High School students. It explains what a scientist does on a daily basis, and demonstrates that everyone uses aspects of the Scientific Method in their daily like, for example to fix a broken lamp. This excercise helps demonstrate to students that this ability is inside them, helps give that ability a voice, and proves that anyone can be a scientist, even without a fancy lab. This exercise was born out of a long term collaboration with The Ohio State [Young Scholars Program](https://odi.osu.edu/young-scholars-program).   
 
-[Long-read cDNA Sequencing Enables a ‘Gene-Like’ Transcript Annotation of Arabidopsis Transposable Elements.](http://www.plantcell.org/content/32/9/2687) K. Panda and R.K. Slotkin.  *Annotations are available on [GitHub](https://github.com/KaushikPanda1/AthalianaTETranscripts).*
+#### Slotkin Lab Internships from the Jackie Joyner-Kersee Foundation's Food, Agriculture and Nutrition Innovation Center
 
----
-#### Software Tools
+The Danforth Center has collaborated with Team U.S.A. hero Jackie Joyner-Kersee and her [Foundation](https://jjkfoundation.org) to form the Food, Agriculture and Nutrition Innovation Center in East St. Louis. This exciting [new partnership was recently announced](https://www.danforthcenter.org/news/jackie-joyner-kersee-foundation-officially-launches-food-agriculture-and-nutrition-innovation-center-in-unique-public-private-partnership/). The Slotkin lab will be integrating High School interns from East St. Louis for summer research projects. 
 
-Tool to determine the stength of RNA-directed DNA Methylation (RdDM). From: [An siRNA-guided Argonaute protein directs RNA Polymerase V for the first round of RNA-directed DNA methylation](https://www.nature.com/articles/s41477-021-01008-7) (2021). M. Sigman, K. Panda, R. Kirchner, L.L. McLain, H. Payne, J.R. Peasari, A.Y. Husbands, R.K. Slotkin, A.D. McCue.Nature Plants 7: 1461-1474. 
-*Custom python script to analyze dot-plot images from KisMeth available from [GitHub](https://github.com/jpeasari/Dot-Plot-Anaysis-OpenCV).
+#### Course-Based Undergraduate Research
 
-[EpiTEome: Simultaneous detection of transposable element insertion sites and their DNA methylation levels.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1232-0) J. Daron and R.K. Slotkin. Genome Biology v18:7704.  *Available on [GitHub](https://github.com/jdaron/epiTEome).*
+The Slotkin lab has developed Course-Based Undergraduate Reserach for students to screen for stress resilient plants in populations with or without active transposable elements. We visit the classrooms and help the students with their projects. This project was most recently integrated into a biology course at Lindenwood University with the help of [Dr. Joshua Neely](https://www.lindenwood.edu/about/directories/faculty-staff-directory/details/jneely/).
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/kismeth-1.jpg){: .align-right}
-[Kismeth: Analyzer of Plant Methylation States Through Bisulfite Sequencing.](http://www.biomedcentral.com/1471-2105/9/371) E. Gruntman<sup>\*</sup>, Y. Qi<sup>\*</sup>, R.K. Slotkin<sup>\*</sup>, T. Roeder, R.A. Martienssen and R. Sachidanandam. BMC Bioinformatics v9: e371.<sup> \*</sup>*These authors contributed equally to this manuscript. Available as an [web-based tool.](http://katahdin.mssm.edu/kismeth/revpage.pl)*
+
 
 ---
 #### Teaching Resources
@@ -34,9 +34,4 @@ Tool to determine the stength of RNA-directed DNA Methylation (RdDM). From: [An 
 R.K. Slotkin. [Designing a Better Laboratory Course.](http://gsi.berkeley.edu/slotkinrk-2005/) **Teaching Guide for Graduate Student Instructors** 2005-2006, University of California Press.
 
 ---
-#### Outreach
-
-[Mutant Millets outreach](https://mutantmillets.org), serving St. Louis region High Schools.
-<figure>
-  <a href="https://mutantmillets.org"><img src="https://mutantmillets.files.wordpress.com/2014/01/cropped-header4.jpg"></a>
-</figure>
+#### 
