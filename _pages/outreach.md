@@ -7,7 +7,7 @@ permalink: /outreach/
 ---
 #### The Slotkin laboratory is dedicated to diversifying biology.
 #### Below are some of the Outreach & Education activities that we either lead or participate in:
-
+----
 #### [Mutant Millets outreach](https://mutantmillets.org), serving St. Louis region Middle & High Schools.
 <figure>
   <a href="https://mutantmillets.org"><img src="https://mutantmillets.files.wordpress.com/2014/01/cropped-header4.jpg"></a>
@@ -20,18 +20,18 @@ This is a one-hour classroom excercise taught by Keith Slotkin suitable for Midd
 
 #### Slotkin Lab Internships from the Jackie Joyner-Kersee Foundation's Food, Agriculture and Nutrition Innovation Center
 
-The Danforth Center has collaborated with Team U.S.A. hero Jackie Joyner-Kersee and her [Foundation](https://jjkfoundation.org) to form the Food, Agriculture and Nutrition Innovation Center in East St. Louis. This exciting [new partnership was recently announced](https://www.danforthcenter.org/news/jackie-joyner-kersee-foundation-officially-launches-food-agriculture-and-nutrition-innovation-center-in-unique-public-private-partnership/). The Slotkin lab will be integrating High School interns from East St. Louis for summer research projects. 
+The Danforth Center has collaborated with Team U.S.A. and local hero Jackie Joyner-Kersee and her [Foundation](https://jjkfoundation.org) to form the Food, Agriculture and Nutrition Innovation Center in East St. Louis. This exciting [new partnership was recently announced](https://www.danforthcenter.org/news/jackie-joyner-kersee-foundation-officially-launches-food-agriculture-and-nutrition-innovation-center-in-unique-public-private-partnership/). The Slotkin lab will be integrating High School interns from East St. Louis for summer research projects. 
 
 #### Course-Based Undergraduate Research
 
 The Slotkin lab has developed Course-Based Undergraduate Reserach for students to screen for stress resilient plants in populations with or without active transposable elements. We visit the classrooms and help the students with their projects. This project was most recently integrated into a biology course at Lindenwood University with the help of [Dr. Joshua Neely](https://www.lindenwood.edu/about/directories/faculty-staff-directory/details/jneely/).
 
+#### Danforth Center Research Experience for Undergraduates
+The Slotkin lab is an annual participant in this NSF-funded REU project, integrating undergraduate students into the lab for a summer full of reserach experience, training and mentoring. More on this program [here](https://www.danforthcenter.org/our-work/education-outreach/undergraduate-program/internship-program/) and [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2050394&HistoricalAwards=false). 
 
+#### Danforth Center's Responsible Conduct in Research Committee
+Keith Slotkin is a member on the Danforth Center's RCR Committee. We provide face-to-face training on best reserach practices, authorship, plagerism, and other ethical traps that scientists commonly fall into. 
 
----
 #### Teaching Resources
 
 R.K. Slotkin. [Designing a Better Laboratory Course.](http://gsi.berkeley.edu/slotkinrk-2005/) **Teaching Guide for Graduate Student Instructors** 2005-2006, University of California Press.
-
----
-#### 
