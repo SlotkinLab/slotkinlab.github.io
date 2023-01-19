@@ -42,4 +42,4 @@ Keith Slotkin is a member on the Danforth Center's RCR Committee. We provide fac
 
 #### Teaching Resources
 After watching too many cooking shows, I wrote an essay on how to reimagine a laboratory course:
-R.K. Slotkin. [Designing a Better Laboratory Course.](http://gsi.berkeley.edu/slotkinrk-2005/) **Teaching Guide for Graduate Student Instructors** 2005-2006, University of California Press.
+R.K. Slotkin. [Designing a Better Laboratory Course.](http://gsi.berkeley.edu/slotkinrk-2005/) **Teaching Guide for Graduate Student Instructors** 2005-2006, University of California Press. 
