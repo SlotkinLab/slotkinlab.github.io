@@ -14,6 +14,13 @@ permalink: /outreach/
 </figure>
 Keith Slotkin is the lead-PI of this Outreach Project that is taught in ~10 schools per semester. The students grow EMS populations of Setaria and hunt for mutant plants! This project is a collaboration with the Danforth Center's amazing [Education Research and Outreach Lab](https://www.danforthcenter.org/our-work/education-outreach/) and is supported by an NSF's Understanding the Rules of Life grant.   
 
+Here is a video I made introducing the project during the pandemic when I couldn't enter the classroom (inbed Slotkin Mutant Millets intro.mp4).
+
+Here is a teaching publication that hame come out of this program:
+<figure>
+  <a href="[https://mutantmillets.org](https://online.ucpress.edu/abt/article-abstract/83/5/311/117023/Exploring-Grass-Morphology-amp-Mutant-Phenotypes?redirectedFrom=fulltext)"><img src="MM paper.jpg"></a>
+</figure>
+
 #### Anyone Can Be A Scientist When They Use the Scientific Method! 
 This is a one-hour classroom exercise taught by Keith Slotkin suitable for Middle or High School students. It explains what a scientist does on a daily basis, and demonstrates that everyone uses aspects of the Scientific Method in their daily life (for example to fix a broken lamp). This interactive hour helps demonstrate to students that this ability is inside them, helps give that ability a voice, and proves that anyone can be a scientist, even without a fancy lab. This exercise was born out of a long term collaboration with The Ohio State [Young Scholars Program](https://odi.osu.edu/young-scholars-program).   
 
