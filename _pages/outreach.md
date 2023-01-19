@@ -22,9 +22,9 @@ Here is a teaching publication from this program:
 #### Anyone Can Be A Scientist When They Use the Scientific Method! 
 This is a one-hour classroom exercise taught by Keith Slotkin suitable for Middle or High School students. It explains what a scientist does on a daily basis, and demonstrates that everyone uses aspects of the Scientific Method in their daily life (for example to fix a broken lamp). This interactive hour helps demonstrate to students that this ability is inside them, helps give that ability a voice, and proves that anyone can be a scientist, even without a fancy lab. This exercise was born out of a long term collaboration with The Ohio State [Young Scholars Program](https://odi.osu.edu/young-scholars-program).
 
-<figure class="half">
+<!-- <figure class="half">
   <img src="/assets/images/Scientific Method.jpg">
-</figure>
+</figure> -->
 
 
 #### Slotkin Lab Internships from the Jackie Joyner-Kersee Foundation's Food, Agriculture and Nutrition Innovation Center
