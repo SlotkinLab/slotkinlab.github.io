@@ -40,6 +40,7 @@ Keith Slotkin routinely gives talk to non-scientists. Here is an example video.
  The Slotkin lab is an annual participant in this NSF-funded REU project, integrating undergraduate students into the lab for a summer full of research, training and mentoring. More on this program [here](https://www.danforthcenter.org/our-work/education-outreach/undergraduate-program/internship-program/) and [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2050394&HistoricalAwards=false). 
 
 
+
 #### Danforth Center's Responsible Conduct in Research Committee
 Keith Slotkin is a member on the Danforth Center's RCR Committee. We provide face-to-face training on best research practices, authorship, plagiarism, and other ethical traps that scientists commonly fall into. 
 
