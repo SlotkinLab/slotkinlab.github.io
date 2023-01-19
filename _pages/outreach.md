@@ -31,6 +31,9 @@ The Danforth Center has collaborated with Team U.S.A. and local hero Jackie Joyn
 #### Course-Based Undergraduate Research
 The Slotkin lab has developed Course-Based Undergraduate Research for students to screen for stress resilient plants in populations with or without active transposable elements. We visit the classrooms and help the students with their projects. This project was most recently integrated into a biology course at Lindenwood University with the help of [Dr. Joshua Neely](https://www.lindenwood.edu/about/directories/faculty-staff-directory/details/jneely/).
 
+#### Scientific Talks to the Public
+Keith Slotkin routinely gives talk to non-scientists. Here is an example video.
+
 #### Danforth Center Research Experience for Undergraduates
 The Slotkin lab is an annual participant in this NSF-funded REU project, integrating undergraduate students into the lab for a summer full of research, training and mentoring. More on this program [here](https://www.danforthcenter.org/our-work/education-outreach/undergraduate-program/internship-program/) and [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2050394&HistoricalAwards=false). 
 
