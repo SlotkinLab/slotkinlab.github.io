@@ -36,6 +36,8 @@ The Slotkin lab has developed Course-Based Undergraduate Research for students t
 #### 5. Scientific Talks to the Public
 Keith Slotkin routinely gives talks to non-scientists. Here is an [example video](https://youtu.be/6UUnVBzf7-U).
 
+{% include youtube.html id="6UUnVBzf7-U" %}
+
 #### 6. Danforth Center Research Experience for Undergraduates
 The Slotkin lab is an annual participant in this NSF-funded REU project, integrating undergraduate students into the lab for a summer full of research, training and mentoring. More on this program [here](https://www.danforthcenter.org/our-work/education-outreach/undergraduate-program/internship-program/) and [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2050394&HistoricalAwards=false). See our [Alumni](https://slotkinlab.github.io/alumni/) page for recent students that have been a part of this program.
 
