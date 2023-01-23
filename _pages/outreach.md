@@ -15,7 +15,7 @@ Keith Slotkin is the lead-PI of this Outreach Project that is taught in ~10 scho
 </figure>
 
 Watch a pandemic-time introduction of Mutant Millets Keith recorded from his office [here](https://youtu.be/Rk0RoVcPTUs).
-
+{% include youtube.html id="Rk0RoVcPTUs" %}
 Here is a recent teaching publication from this program:
  <figure class="half">
   <a href="https://online.ucpress.edu/abt/article-abstract/83/5/311/117023/Exploring-Grass-Morphology-amp-Mutant-Phenotypes"><img src="/assets/images/MM paper.jpg"></a>
