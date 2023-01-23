@@ -18,7 +18,7 @@ Watch a pandemic-time introduction of Mutant Millets Keith recorded from his off
 
 Here is a recent teaching publication from this program:
  <figure class="half">
-  <a href="[https://mutantmillets.org](https://online.ucpress.edu/abt/article-abstract/83/5/311/117023/Exploring-Grass-Morphology-amp-Mutant-Phenotypes?redirectedFrom=fulltext)"><img src="/assets/images/MM paper.jpg"></a>
+  <a href="https://online.ucpress.edu/abt/article-abstract/83/5/311/117023/Exploring-Grass-Morphology-amp-Mutant-Phenotypes"><img src="/assets/images/MM paper.jpg"></a>
 </figure> 
 
 #### 2. Anyone Can Be A Scientist When They Use the Scientific Method! 
