@@ -11,6 +11,14 @@ An up to date full list of publications can be found on [Google Scholar.](https:
 
 *Italic text* indicates Slotkin lab undergraduate reseracher
 
+# 2023
+
+**P. Liu, K. Panda, S.A. Edwards**, H. Yi, **P. Pandesha, Y.-H. Hung, R. Swanson, G. Klaas**, X. Ye, V. Veena, L.A. Gilbertson, C.N. Hancock and **R.K. Slotkin**. [CRISPR-targeted transposable element insertion for efficient plant genome engineering](https://www.researchsquare.com/article/rs-2679086/v1). **In Review**
+
+S. Belanger, **M.C. Kramer, H.A. Payne, R.K. Slotkin**, B.C. Meyers, J.M. Staub. [Plastid transgenes trigger small RNA-based gene silencing of nuclear-encoded genes](https://www.biorxiv.org/content/10.1101/2022.12.06.519219v2). **In Review**         
+
+**K. Panda**, B. Mohanasundaram, J. Gutierrez, **L. McLain**, S.E. Castillo, H. Sheng, A. Casto, G. Gratacós, A. Chakrabarti, N. Fahlgren,  S. Pandey,  M.A. Gehan and **R.K. Slotkin**. [The plant response to high CO2 levels is heritable and orchestrated by DNA methylation](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.18876). **New Phytologist**
+	
 # 2022
 
 **P. Liu, D. Cuerda-Gil, S. Shahid** and **R.K. Slotkin**. [The Epigenetic Control of the Transposable Element Life Cycle in Plant Genomes and Beyond](https://www.annualreviews.org/doi/abs/10.1146/annurev-genet-072920-015534) **Annual Review of Genetics** 56:63-87.
