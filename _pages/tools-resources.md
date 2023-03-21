@@ -7,6 +7,11 @@ permalink: /tools-resources/
 ---
 Below are some of the tools and resources developed by the Slotkin Lab:
 
+#### Image Resources for plant growth under high CO2 conditions
+
+From: (2023) K. Panda, B. Mohanasundaram, J. Gutierrez, L. McLain, S.E. Castillo, H. Sheng, A. Casto, G. Gratacós, A. Chakrabarti, N. Fahlgren,  S. Pandey,  M.A. Gehan and R.K. Slotkin. [The plant response to high CO2 levels is heritable and orchestrated by DNA methylation](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.18876). New Phytologist
+Images available [here](https://github.com/danforthcenter/heritable-highCO2-response).
+
 #### Resources for *in vivo* Protein-RNA tethering 
 
 Plasmids and seeds available from the ABRC: [Link](https://abrc.osu.edu/stocks?search%5Btaxon%5D=Arabidopsis+thaliana&search%5Bsearch_text%5D=Slotkin&search%5Bsearch_fields%5D=Donor+last+name)
