@@ -15,10 +15,14 @@ An up to date full list of publications can be found on [Google Scholar.](https:
 
 **P. Liu, K. Panda, S.A. Edwards**, H. Yi, **P. Pandesha, Y.-H. Hung, R. Swanson, G. Klaas**, X. Ye, V. Veena, L.A. Gilbertson, C.N. Hancock and **R.K. Slotkin**. [CRISPR-targeted transposable element insertion for efficient plant genome engineering](https://www.researchsquare.com/article/rs-2679086/v1). **In Review**
 
-S. Belanger, **M.C. Kramer, H.A. Payne, R.K. Slotkin**, B.C. Meyers, J.M. Staub. [Plastid double-strand RNA transgenes trigger small RNA-based gene silencing of nuclear-encoded genes](https://www.biorxiv.org/content/10.1101/2022.12.06.519219v2). **In Review**         
+S. Belanger, **M.C. Kramer, H.A. Payne**, A.Y. Hui, **R.K. Slotkin**, B.C. Meyers, J.M. Staub. [Plastid double-strand RNA transgenes trigger small RNA-based gene silencing of nuclear-encoded genes](https://academic.oup.com/plcell/article/35/9/3398/7194777) **The Plant Cell** 35:2298-3412.    
 
-**K. Panda**, B. Mohanasundaram, J. Gutierrez, **L. McLain**, S.E. Castillo, H. Sheng, A. Casto, G. Gratacós, A. Chakrabarti, N. Fahlgren,  S. Pandey,  M.A. Gehan and **R.K. Slotkin**. [The plant response to high CO2 levels is heritable and orchestrated by DNA methylation](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.18876). **New Phytologist**
-	
+**K. Panda**, B. Mohanasundaram, J. Gutierrez, **L. McLain**, S.E. Castillo, H. Sheng, A. Casto, G. Gratacós, A. Chakrabarti, N. Fahlgren,  S. Pandey,  M.A. Gehan and **R.K. Slotkin**. [The plant response to high CO2 levels is heritable and orchestrated by DNA methylation](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.18876). **New Phytologist** 238:2427-2439.
+
+K. Renken, S.M. Mendoza, S. Diaz, **R.K. Slotkin**, C.N. Hancock. [Pol V produced RNA facilitates transposable element excision site repair in Arabidopsis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10236241/). **MicroPublication Biology** 000793.	
+
+P. Zhang, A. Mbodj, A. Soundiramourtty, C. Llauro, A. Ghesquiere, M. Ingouff, **R.K. Slotkin**, F. Pontvianne, M. Catoni, M. Mirouze. [Extrachromosomal circular DNA and structural variants highlight genome instability in Arabidopsis epigenetic mutants](https://www.nature.com/articles/s41467-023-41023-0). **Nature Communications** 14:5236.
+
 # 2022
 
 **P. Liu, D. Cuerda-Gil, S. Shahid** and **R.K. Slotkin**. [The Epigenetic Control of the Transposable Element Life Cycle in Plant Genomes and Beyond](https://www.annualreviews.org/doi/abs/10.1146/annurev-genet-072920-015534) **Annual Review of Genetics** 56:63-87.
