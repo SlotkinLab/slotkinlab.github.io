@@ -14,7 +14,7 @@ Keith Slotkin is the lead-PI of this Outreach Project that is taught in ~10 scho
   <a href="https://mutantmillets.org"><img src="https://mutantmillets.files.wordpress.com/2014/01/cropped-header4.jpg"></a>
 </figure>
 
-Watch a pandemic-time introduction of Mutant Millets Keith recorded from his office [here](https://youtu.be/Rk0RoVcPTUs).
+Watch a pandemic-time introduction to Mutant Millets that Keith recorded from his office [here](https://youtu.be/Rk0RoVcPTUs).
 {% include youtube.html id="Rk0RoVcPTUs" %}
 Here is a recent teaching publication from this program:
  <figure class="half">
@@ -22,16 +22,16 @@ Here is a recent teaching publication from this program:
 </figure> 
 
 #### 2. Anyone Can Be A Scientist When They Use the Scientific Method! 
-This is a one-hour classroom exercise taught several times per year over the last four years by Keith Slotkin. The excercise is suitable for Middle or High School students. It explains what a scientist does on a daily basis, and demonstrates that everyone uses aspects of the Scientific Method in their daily life (for example to fix a broken lamp). This interactive hour helps demonstrate to students that this ability is inside them, helps give that ability a voice, and proves that anyone can be a scientist, even without a fancy lab. This exercise was born out of a long term collaboration with The Ohio State [Young Scholars Program](https://odi.osu.edu/young-scholars-program).
+This is a one-hour classroom exercise taught several times per year over the last four years by Keith Slotkin. The excercise is suitable for Middle or High School students. It explains what a scientist does on a daily basis, and demonstrates that everyone uses aspects of the Scientific Method in their daily life (for example to fix a broken lamp). This interactive hour helps demonstrate to students that thinking like a scientist is innate, helps give that ability a voice, and proves that anyone can be a scientist, even without a fancy lab. This exercise was born out of a long term collaboration with The Ohio State [Young Scholars Program](https://odi.osu.edu/young-scholars-program).
  <figure class="half">
   <img src="/assets/images/Scientific Method.jpg">
 </figure> 
 
 #### 3. Slotkin Lab Internships from the Jackie Joyner-Kersee Foundation's Food, Agriculture and Nutrition Innovation Center
-The Danforth Center has collaborated with Team U.S.A. and local hero Jackie Joyner-Kersee and her [Foundation](https://jjkfoundation.org) to form the Food, Agriculture and Nutrition Innovation Center in East St. Louis. This exciting [new partnership was recently announced](https://www.danforthcenter.org/news/jackie-joyner-kersee-foundation-officially-launches-food-agriculture-and-nutrition-innovation-center-in-unique-public-private-partnership/). The Slotkin integrates High School interns from East St. Louis for summer research projects. 
+The Danforth Center has collaborated with Team U.S.A. and local hero Jackie Joyner-Kersee and her [Foundation](https://jjkfoundation.org) to form the Food, Agriculture and Nutrition Innovation Center in East St. Louis. This exciting [partnership was recently announced](https://www.danforthcenter.org/news/jackie-joyner-kersee-foundation-officially-launches-food-agriculture-and-nutrition-innovation-center-in-unique-public-private-partnership/). The Slotkin lab integrates High School interns from East St. Louis for summer research projects. 
 
 #### 4. Course-Based Undergraduate Research
-The Slotkin lab has developed Course-Based Undergraduate Research for students to screen for stress resilient plants in populations with or without active transposable elements. We visit the classrooms and help the students with their projects. This project was most recently integrated into a biology course at Lindenwood University with the help of [Dr. Joshua Neely](https://www.lindenwood.edu/about/directories/faculty-staff-directory/details/jneely/). This project was born out of the previous integration of Slotkin lab research into a Molecular Genetics laboratory course at Ohio State.
+The Slotkin lab has developed Course-Based Undergraduate Research for students to screen for stress resilient plants in populations with or without active transposable elements. We visit the classrooms and help the students with their projects. This project was most recently integrated into a biology course at Lindenwood University with the help of [Dr. Joshua Neely](https://www.lindenwood.edu/about/directories/faculty-staff-directory/details/jneely/). This project was born out of the previous integration of Slotkin lab research into a Molecular Genetics laboratory course at The Ohio State University.
 
 #### 5. Scientific Talks to the Public
 Keith Slotkin routinely gives talks to non-scientists. Here is an [example video](https://youtu.be/6UUnVBzf7-U).
