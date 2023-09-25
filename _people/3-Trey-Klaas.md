@@ -2,7 +2,7 @@
 layout: archive
 title: "Gerald 'Trey' Klaas"
 author: Trey Klaas
-jobtitle: Reserach Technician
+jobtitle: Research Technician
 bio:
 excerpt: ""
 author_profile: true
