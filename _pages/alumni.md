@@ -52,11 +52,12 @@ gallery:
 
 | Name                                                   | Year               | Current position                                                 |
 | ------------------------------------------------------ | ------------------ | ---------------------------------------------------------------- |
-| **Christopher DeFraia** (Pelotonia Cancer Research Fellow) | 2010-2013| [Associate Professor of Biological Sciences at Ferris State University](https://www.ferris.edu/arts-sciences/profiles/biological-sciences/christopher-defraia.html) |
-**Germán Martinez-Arías** (Marie Curie Postdoctoral Fellow) |2011-2015|[Independent Associate Senior Lecturer (research position) at the Swedish University of Agricultural Sciences (SLU), Uppsala, Sweden](https://germanmartinezgroup.wordpress.com)|
+| **Christopher DeFraia** (Pelotonia Cancer Research Fellow) | 2010-2013| [Professor of Biological Sciences at Ferris State University](https://www.ferris.edu/arts-sciences/profiles/biological-sciences/christopher-defraia.html) |
+**Germán Martinez-Arías** (Marie Curie Postdoctoral Fellow) |2011-2015|[Faculty Lecturer (research position) at the Swedish University of Agricultural Sciences (SLU), Uppsala, Sweden](https://germanmartinezgroup.wordpress.com)|
 **Josquin Daron**| 2015-2017|[Marie Curie Postdoctoral Fellow, MIVEGEC laboratory of Infectious Diseases and Vectors: Ecology, Genetics, Evolution and Control, National Center for Scientific Research (CNRS), Montpellier France](https://www.mivegec.ird.fr/en/component/content/article?id=1192&Itemid=&selected=451%20)|
 **Andrea McCue**| 2017-2021| Scientist at [Battelle](https://www.battelle.org) in Columbus, Ohio|
 **Saima Shahid** (Life Science Research Foundation Fellow) |2017-2022| [Assistant Professor in the Department of Plant Biology, Ecology and Evolution at Oklahoma State University](https://plantbio.okstate.edu/faculty/faculty)|
+**Kaushik Panda** | 2018-2023 | Scientist at Bayer Crop Science
 
 ### *Graduate Students*
 
@@ -87,6 +88,7 @@ gallery:
 |**Rachel Kirchner**| 2017-2020| Graduated Honors Research Distinction from the Ohio State Department of Molecular Genetics. Currently in the M.D./Ph.D. program at University of Wisconsin-Madison|
 |**Eric Wang**, Danforth Center Research Experiences for Undergraduates program| 2022 | Wake Forest University|
 |**Harper Lowrey**, Danforth Center Research Experiences for Undergraduates program| 2022 | Yale University|
+|**Tayahna Agtarap**, Danforth Center Research Experiences for Undergraduates program| 2023 | California State University at Long Beach |
 
 ### *Lab Staff*
 
