@@ -7,7 +7,7 @@ feature_row:
   - image_path: /assets/images/flower.svg
     alt: "research"
     title: "Research"
-    excerpt: "Our research focuses on understanding the epigenetic regulation of Transposable Elements (TEs). See [here](/research/) for a description of our research."
+    excerpt: "Our research focuses on how plant cells control Transposable Elements (TEs), and how we can learn to control TEs as tools for gene editing. See [here](/research/) for a description of our research."
   - image_path: /assets/images/people2.jpg
     alt: "People"
     title: "People"
