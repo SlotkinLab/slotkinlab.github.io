@@ -7,6 +7,6 @@ bio:
 excerpt: ""
 author_profile: true
 header:
-  teaser: /assets/images/people/TB.jpg
+  teaser: /assets/images/people/Burton2.jpg
 
 ---
