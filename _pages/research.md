@@ -20,7 +20,7 @@ If you need help with one of these topics, please feel free to email us and requ
 
 Research Topic #2 – How We Can Control Transposable Elements As Tools For Genome Engineering
 
-After more than a decade of elucidating how cells control TEs, we have learned how we can control TE activity. This includes the engineering of the timing of transposition, the location of transposition and the DNA cargo that the TE delivers to the new location. We have combined TEs with gene editing tools such as CRISPR/Cas and Cre/Lox to create new tools to manipulate plant genomes. This is a use-inspired synthetic biology project to create proof-of-principle demonstrations of new technology, and then translate these discoveries into important crops that need new tools. See the details in this preprint. 
+After more than a decade of elucidating how cells control TEs, we have learned how we can control TE activity. This includes the engineering of the timing of transposition, the location of transposition and the DNA cargo that the TE delivers to the new location. We have combined TEs with gene editing tools such as CRISPR/Cas and Cre/Lox to create new tools to manipulate plant genomes. This is a use-inspired synthetic biology project to create proof-of-principle demonstrations of new technology, and then translate these discoveries into important crops that need new tools. See the details in this [preprint](https://www.researchsquare.com/article/rs-2679086/v1). 
 
 *************************************************************************************************
 
