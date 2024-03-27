@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "David L"
+title: "David Li"
 author: David Li
 jobtitle: Graduate Student, Washington University in St. Louis DBBS Graduate Program
 bio:
