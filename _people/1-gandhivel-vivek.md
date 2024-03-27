@@ -7,6 +7,6 @@ bio:
 excerpt: ""
 author_profile: true
 header:
-  teaser: /assets/images/people/vivek.jpg
+  teaser: /assets/images/people/Vivek.jpg
 
 ---
