@@ -7,6 +7,6 @@ bio:
 excerpt: ""
 author_profile: true
 header:
-  teaser: 
+  teaser: /assets/images/people/DL.jpg
 
 ---
