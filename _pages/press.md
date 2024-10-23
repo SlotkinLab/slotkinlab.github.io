@@ -4,6 +4,9 @@ classes: wide
 title: Press
 permalink: /press/
 ---
+
+#### *Slotkin lab research featured in the MIT Technology Review article "Green Revolution redux - Have we entered the golden age of plant engineering?" in September 2024 [The Food Issue](https://www.technologyreview.com/2024/10/23/1105291/green-revolution-plant-engineering-crispr-farming-agriculture/)*
+
 #### *Keith contributes to a free poster on Plant Small RNAs*. 
 [Link to poster](https://www.agrisera.com/en/blogg/agrisera-blog/2022/09/26/new-agrisera-educational-poster-6-is-available-.html)
 <figure class="half">
