@@ -10,7 +10,7 @@ permalink: /outreach/
 #### [1. Mutant Millets](https://mutantmillets.org) - serving St. Louis Middle & High Schools.
 Keith Slotkin was the lead-PI of this Project that is taught in ~10 schools per semester. The students grow EMS populations of Setaria and hunt for mutant plants! This project is a collaboration with the Danforth Center's amazing [Education Research and Outreach Lab](https://www.danforthcenter.org/our-work/education-outreach/) and was supported by an NSF Understanding the Rules of Life grant.  
 <figure class="half">
-  <a href="https://mutantmillets.org"><img src="https://mutantmillets.files.wordpress.com/2014/01/cropped-header4.jpg"></a>
+  <a href="https://www.danforthcenter.org/our-work/education-outreach/authentic-research-experiences-and-cures/"><img src="https://mutantmillets.files.wordpress.com/2014/01/cropped-header4.jpg"></a>
 </figure>
 
 Watch a pandemic-time introduction to Mutant Millets that Keith recorded from his office [here](https://youtu.be/Rk0RoVcPTUs).
