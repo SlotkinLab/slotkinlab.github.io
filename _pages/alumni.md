@@ -65,6 +65,7 @@ gallery:
 **Saima Shahid** (Life Science Research Foundation Fellow) |2017-2022| [Faculty Lecturer at the University of Sheffield in the UK](https://sheffield.ac.uk/biosciences/people/saima-shahid)|
 **Kaushik Panda** | 2018-2023 | Scientist at Bayer Crop Science
 **Peng Liu** | 2019-2024 | [Genomics Lead Scientist at Sensient Food Colors](https://na.sensientfoodcolors.com/) 
+**Marianne Kramer** (NSF Post-Doctoral Research Fellowship in Biology)(NSF I-CORPS Team Leader)| 2021-2025 | Lecturer at the University of Houston
 
 ### *Graduate Students*
 
