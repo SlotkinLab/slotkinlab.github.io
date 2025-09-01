@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Abigale Bryson"
-author: Abigale Bryson
+title: "Abigail Bryson"
+author: Abigail Bryson
 jobtitle: Postdoctoral Researcher
 bio:
 excerpt: ""
