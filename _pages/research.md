@@ -22,11 +22,15 @@ If you need help with one of these topics, please feel free to email us and requ
 
 #### Research Topic #2 – How We Can Control Transposable Elements As Tools For Genome Engineering
 
-After more than a decade of elucidating how cells control TEs, we have learned how we can control TE activity. This includes the engineering of the timing of transposition, the location of transposition and the DNA cargo that the TE delivers to the new location. We have combined TEs with gene editing tools such as CRISPR/Cas and Cre/Lox to create new tools to manipulate plant genomes. This is a use-inspired synthetic biology project to create proof-of-principle demonstrations of new technology, and then translate these discoveries into important crops that need new tools. See the details in this [preprint](https://www.researchsquare.com/article/rs-2679086/v1). 
+After more than a decade of elucidating how cells control TEs, we have learned how we can control TE activity within plant cells. This includes the control of the timing of transposition, the location of TE insertion and the DNA cargo that the TE delivers to the targeted site. We have combined TEs with gene editing tools such as CRISPR-Cas and Cre/Lox to create new tools to manipulate plant genomes. This is a use-inspired synthetic biology project to create proof-of-principle demonstrations of new technology, and then translate these discoveries into important crops that need new tools. 
 
 *************************************************************************************************
 
-See our [Publications](/publications/), [Press](/press/) and [Resources](/tools-resources) pages for links to our research articles, while these five Review / Commentary articles below are good representations of our opinions and viewpoints:
+See our [Publications](/publications/), [Press](/press/) and [Resources](/tools-resources) pages for links to our research articles, while the Review / Commentary articles below are good representations of our opinions and viewpoints:
+
+Gilbertson, L., Puchta, H., Slotkin, R.K. (2025) [The future of genome engineering in plants](https://www.nature.com/articles/s41477-025-01956-4) Nature Plants 11, 680-685.
+
+Liu, P., Cuerda-Gil, D., Shahid, S., Slotkin, R.K. (2022) [The epigenetic control of the transposable element lifecycle in plant genomes and beyond](https://www.annualreviews.org/content/journals/10.1146/annurev-genet-072920-015534) Annual Review of Genetics 56, 63-87.
 
 Hung, Y.-H., Slotkin, R.K. (2021). [The initiation of RNA interference (RNAi) in plants.](https://www.sciencedirect.com/science/article/pii/S1369526621000145) Current Opinion in Plant Biology 61, 102014.
 
@@ -37,5 +41,3 @@ Slotkin, R.K. (2018). [The case for not masking away repetitive DNA.](https://dx
 Cuerda-Gil, D., Slotkin, R.K. (2016). [Non-canonical RNA-directed DNA methylation.](https://dx.doi.org/10.1038/nplants.2016.163) Nature Plants 2(11), 16163.
 
 Sigman, M., Slotkin, R.K. (2016). [The First Rule of Plant Transposable Element Silencing: Location, Location, Location.](https://dx.doi.org/10.1105/tpc.15.00869) The Plant Cell 28(2), 304-313.
-
-Martinez, G., Slotkin, R.K. (2012). [Developmental relaxation of transposable element silencing in plants: functional or byproduct?](https://dx.doi.org/10.1016/j.pbi.2012.09.001Geneticists) Current Opinion in Plant Biology 15, 496-502.
