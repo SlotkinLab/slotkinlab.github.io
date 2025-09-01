@@ -9,7 +9,7 @@ An up to date full list of publications can be found on [Google Scholar.](https:
 
 **Bold text** indicates Slotkin lab [current member](https://slotkinlab.github.io/people/) or [alumni](https://slotkinlab.github.io/alumni/)
 
-*Italic text* indicates Slotkin lab undergraduate reseracher
+*Italic text* indicates Slotkin lab undergraduate researcher
 
 # 2025
 
