@@ -8,7 +8,7 @@ permalink: /positions/
 
 <u>Postdoctoral Researchers</u>
 
-We are always recruiting new Postdoc Researchers to the Slotkin lab! See an official posting [here](https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=38397&clientkey=0386834D209CD1EA462A147F53A126FF).
+We are always recruiting new Postdoc Researchers to the Slotkin lab! See an official posting [here](https://www.danforthcenter.org/careers/).
 If the posting is old or out-of-date, please directly [send an email to Keith Slotkin](mailto:kslotkin@danforthcenter.org) 
 
 <u>Graduate Students</u>
