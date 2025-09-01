@@ -2,7 +2,7 @@
 layout: archive
 title: "Seth Edwards"
 author: Seth Edwards
-jobtitle: Graduate Student, Division of Biological Sciences, University of Missouri-Columbia
+jobtitle: Postdoctoral Researcher
 bio:
 excerpt: ""
 author_profile: true
