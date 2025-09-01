@@ -2,7 +2,7 @@
 layout: archive
 title: "Vivek Gandhivel"
 author: Vivek Gandhivel
-jobtitle: Postdoctoral Associate
+jobtitle: Postdoctoral Researcher
 bio:
 excerpt: ""
 author_profile: true
