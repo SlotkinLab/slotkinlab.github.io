@@ -5,6 +5,21 @@ title: Press
 permalink: /press/
 ---
 
+#### *Together with the [Danforth Technology Company](https://danforthtechnology.com) the Slotkin lab launches the start-up company [Spearhead Bio](https://danforthtechnology.com/spearhead-bio/)!*
+<figure class="half">
+  <img src="/assets/images/Spearhead.jpg">
+</figure>
+Press releases: 
+[Danforth Center Launch](https://www.danforthcenter.org/news/danforth-technology-company-launches-genome-editing-startup/) 
+[St. Louis Magazine](https://www.stlmag.com/business/spearhead-bio-danforth-center-keith-slotkin/) 
+[Genetic Engineering & Biotechnology News](https://www.genengnews.com/topics/genome-editing/spearhead-bio-offers-precise-plant-engineering-using-crispr-directed-jumping-genes/) 
+[AgFunder News](https://agfundernews.com/danforth-technology-center-launches-gene-editing-startup-spearhead-bio-to-solve-a-major-obstacle-with-crispr) 
+[iGrow News](https://igrownews.com/spearhead-bio-latest-news/) [CropLife](https://www.croplife.com/crop-inputs/seed-biotech/spearhead-bio-awarded-nsf-tech-transfer-grant-to-accelerate-development-of-improved-corn-varieties/)
+
+[Spearhead was awarded an NSF STTR Award](https://danforthtechnology.com/spearhead-bio-awarded-nsf-tech-transfer-grant-to-accelerate-development-of-improved-corn-varieties/) 
+
+Follow Spearhead on [Twitter](https://x.com/Spearhead_Bio) and [Linkedin](https://www.linkedin.com/company/spearhead-bio/)
+
 #### *Slotkin lab research featured in the magazine MIT Technology Review article "Green Revolution redux - Have we entered the golden age of plant engineering?" in September 2024 issue [The Food Issue](https://www.technologyreview.com/2024/10/23/1105291/green-revolution-plant-engineering-crispr-farming-agriculture/)*
 <figure class="half">
   <img src="/assets/images/1982_05_025.png">
