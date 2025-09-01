@@ -11,9 +11,19 @@ An up to date full list of publications can be found on [Google Scholar.](https:
 
 *Italic text* indicates Slotkin lab undergraduate reseracher
 
-# 2023
+# 2025
 
-**P. Liu, K. Panda, S.A. Edwards**, H. Yi, **P. Pandesha, Y.-H. Hung, R. Swanson, G. Klaas**, X. Ye, V. Veena, L.A. Gilbertson, C.N. Hancock and **R.K. Slotkin**. [CRISPR-targeted transposable element insertion for efficient plant genome engineering](https://www.researchsquare.com/article/rs-2679086/v1). **In Review**
+L. Gilbertson, H. Puchta and **R.K. Slotkin**. Perspective: [The Future of Genome Editing in Plants](https://www.nature.com/articles/s41477-025-01956-4). **Nature Plants** v11:680-685.
+
+**Y.-H. Hung**, *E. Wang, T. Agtarap*, **G. Klaas** and **R.K. Slotkin**. [Engineering an RNA/protein binding module for higher transgene protein production and improved long-term durability](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70254). **The Plant Journal** 122: e70254.
+
+J.S. Montgomery, N. Soni, S.M. Hill, S. Morran, E.L. Patterson, **S.A. Edwards, S. Ratnayake, Y.-H. Hung, P. Pandesha, R.K. Slotkin**, R. Napier, F. Dayan and T. Gaines. [A transposable element insertion in AUX/IAA16 disrupts splicing and causes auxin resistance in Bassia scoparia](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70339). **The Plant Journal** 123: e70339.
+
+# 2024
+
+**P. Liu, K. Panda, S.A. Edwards, R. Swanson**, H. Yi, **P. Pandesha, Y.-H. Hung, G. Klaas**, X. Ye, M.V. Collins, K.N. Renken, L.A. Gilbertson, V. Veena, C.N. Hancock and **R.K. Slotkin**. [Transposase-assisted target site integration for efficient plant engineering](https://www.nature.com/articles/s41586-024-07613-8). **Nature** 631: 593-600.
+
+# 2023
 
 S. Belanger, **M.C. Kramer, H.A. Payne**, A.Y. Hui, **R.K. Slotkin**, B.C. Meyers, J.M. Staub. [Plastid double-strand RNA transgenes trigger small RNA-based gene silencing of nuclear-encoded genes](https://academic.oup.com/plcell/article/35/9/3398/7194777) **The Plant Cell** 35:2298-3412.    
 
