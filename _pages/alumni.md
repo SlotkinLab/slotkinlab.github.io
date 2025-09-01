@@ -57,10 +57,11 @@ gallery:
 | ------------------------------------------------------ | ------------------ | ---------------------------------------------------------------- |
 | **Christopher DeFraia** (Pelotonia Cancer Research Fellow) | 2010-2013| [Professor of Biological Sciences at Ferris State University](https://www.ferris.edu/arts-sciences/profiles/biological-sciences/christopher-defraia.html) |
 **Germán Martinez-Arías** (Marie Curie Postdoctoral Fellow) |2011-2015|[Faculty Lecturer (research position) at the Swedish University of Agricultural Sciences (SLU), Uppsala, Sweden](https://germanmartinezgroup.wordpress.com)|
-**Josquin Daron**| 2015-2017|[Marie Curie Postdoctoral Fellow, MIVEGEC laboratory of Infectious Diseases and Vectors: Ecology, Genetics, Evolution and Control, National Center for Scientific Research (CNRS), Montpellier France](https://www.mivegec.ird.fr/en/component/content/article?id=1192&Itemid=&selected=451%20)|
+**Josquin Daron**| 2015-2017|[Researcher at the Institut Pasteur in France](https://research.pasteur.fr/en/member/josquin-daron/)|
 **Andrea McCue**| 2017-2021| Scientist at [Battelle](https://www.battelle.org) in Columbus, Ohio|
-**Saima Shahid** (Life Science Research Foundation Fellow) |2017-2022| [Assistant Professor in the Department of Plant Biology, Ecology and Evolution at Oklahoma State University](https://plantbio.okstate.edu/faculty/faculty)|
+**Saima Shahid** (Life Science Research Foundation Fellow) |2017-2022| [Faculty Lecturer at the University of Sheffield in the UK](https://sheffield.ac.uk/biosciences/people/saima-shahid)|
 **Kaushik Panda** | 2018-2023 | Scientist at Bayer Crop Science
+**Peng Liu** | 2019-2024 | [Genomics Lead Scientist at Sensient Food Colors](https://na.sensientfoodcolors.com/) 
 
 ### *Graduate Students*
 
@@ -73,6 +74,7 @@ gallery:
 |**Sarah Choudury** (Ohio State MCDB Interdisciplinary Graduate Program), Cellular, Molecular & Biochemical Sciences (CMBP) Training Grant Fellow, Center for RNA Biology Fellowship|2014-2018| Postdoc in Aman Husbands' laboratory at Ohio State / University of Pennsylvania |
 |**Meredith Sigman** (Ohio State Department of Molecular Genetics), Cellular, Molecular & Biochemical Sciences (CMBP) Training Grant Fellow, Ohio State University Fellowship|2014-2021| Research Scientist at Bayer Crop Science|
 |**Diego Cuerda-Gil** (Ohio State Department of Molecular Genetics), CONACyT Fellowship from Mexico, William H. Danforth Plant Science Fellow |2016-2021| Research Scientist at Bayer Crop Science|
+|**Seth Edwards** (University of Missouri Division of Biological Sciences) |2020-2025| Postdoc in the Slotkin Lab|
 
 ### *Undergraduate Students*
 
@@ -92,6 +94,7 @@ gallery:
 |**Eric Wang**, Danforth Center Research Experiences for Undergraduates program| 2022 | Wake Forest University|
 |**Harper Lowrey**, Danforth Center Research Experiences for Undergraduates program| 2022 | Yale University|
 |**Tayahna Agtarap**, Danforth Center Research Experiences for Undergraduates program| 2023 | California State University at Long Beach |
+|**Joseph Serio**, Danforth Center Research Experience for Undergraduates| 2024 | University of Southern Mississippi |
 
 ### *Lab Staff*
 
@@ -104,6 +107,7 @@ gallery:
 |**Kim Maxson-Stein**|2018-2019||
 |**Hayden Payne**|2019-2021| Graduate student in the [Department of Plant Sciences at the University of Arizona](https://cals.arizona.edu/spls/home)|
 |**Lauren McLain** |2019-2022| Researcher at Bayer Crop Science|
+|**Trey Klaas** | 2022-2025 | |
 
 
 # Lab pictures from each year
