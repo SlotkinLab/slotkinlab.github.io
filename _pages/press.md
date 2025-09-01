@@ -10,10 +10,15 @@ permalink: /press/
   <img src="/assets/images/Spearhead.jpg">
 </figure>
 Press releases: 
-[Danforth Center Launch](https://www.danforthcenter.org/news/danforth-technology-company-launches-genome-editing-startup/) 
+
+[Danforth Center Launch](https://www.danforthcenter.org/news/danforth-technology-company-launches-genome-editing-startup/)
+
 [St. Louis Magazine](https://www.stlmag.com/business/spearhead-bio-danforth-center-keith-slotkin/) 
+
 [Genetic Engineering & Biotechnology News](https://www.genengnews.com/topics/genome-editing/spearhead-bio-offers-precise-plant-engineering-using-crispr-directed-jumping-genes/) 
+
 [AgFunder News](https://agfundernews.com/danforth-technology-center-launches-gene-editing-startup-spearhead-bio-to-solve-a-major-obstacle-with-crispr) 
+
 [iGrow News](https://igrownews.com/spearhead-bio-latest-news/) [CropLife](https://www.croplife.com/crop-inputs/seed-biotech/spearhead-bio-awarded-nsf-tech-transfer-grant-to-accelerate-development-of-improved-corn-varieties/)
 
 [Spearhead was awarded an NSF STTR Award](https://danforthtechnology.com/spearhead-bio-awarded-nsf-tech-transfer-grant-to-accelerate-development-of-improved-corn-varieties/) 
