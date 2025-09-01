@@ -35,11 +35,3 @@ Tool to determine the stength of RNA-directed DNA Methylation (RdDM). From: [An 
 #### Teaching Resources
 
 R.K. Slotkin. [Designing a Better Laboratory Course.](http://gsi.berkeley.edu/slotkinrk-2005/) **Teaching Guide for Graduate Student Instructors** 2005-2006, University of California Press.
-
----
-#### Outreach
-
-[Mutant Millets outreach](https://mutantmillets.org), serving St. Louis region High Schools.
-<figure>
-  <a href="https://mutantmillets.org"><img src="https://mutantmillets.files.wordpress.com/2014/01/cropped-header4.jpg"></a>
-</figure>
