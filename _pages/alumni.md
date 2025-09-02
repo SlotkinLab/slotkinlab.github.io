@@ -104,7 +104,7 @@ gallery:
 
 | Name                                         | Year              | Current position                                                 |
 | -------------------------------------------- | ----------------- | ---------------------------------------------------------------- |
-|**Amy Gottesman**|2009| Owner of [My Sweet One Baking](https://www.facebook.com/mysweetonebaking/)|
+|**Amy Gottesman**|2009| Project Coordinator at [Hydro-Kinetics](https://hydro-kinetics.com/employee-bios)|
 |**John Patton**|2009-2010| [Completed his M.D./Ph.D. at Ohio State](https://vet.osu.edu/cvm/graduate-student-named-presidential-fellow)|
 |**Sarah Reeder**|2010-2013| [Lab manager in the Dobritsa pollen lab at Ohio State](https://molgen.osu.edu/people/dobritsa.1)|
 |**Parker Messerli**|2018-2019||
