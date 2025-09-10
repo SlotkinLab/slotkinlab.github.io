@@ -7,6 +7,6 @@ bio:
 excerpt: ""
 author_profile: true
 header:
-  teaser: /assets/images/people/Jenny.jpg
+  teaser: /assets/images/people/Kezele.jpg
 
 ---
