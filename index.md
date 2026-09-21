@@ -2,9 +2,9 @@
 layout: splash
 permalink: /
 header:
-  image: /assets/images/group_2025.jpg
+  image: /assets/images/group_2026.jpg
 feature_row:
-  - image_path: /assets/images/flower.svg
+  - image_path: /assets/images/lab.jpg
     alt: "research"
     title: "Research"
     excerpt: "Our research focuses on how plant cells control Transposable Elements (TEs), and how we can learn to control TEs as tools for genome engineering. See [here](/research/) for a description of our research."
@@ -21,6 +21,6 @@ feature_row:
 
   </h1>
 
-Welcome to the Slotkin laboratory! We are located at the [Donald Danforth Plant Science Center](https://www.danforthcenter.org) in St. Louis, Missouri. We are also a part of the [Division of Biological Sciences at the University of Missouri-Columbia](https://biology.missouri.edu) and affiliated with the [Department of Biology at Washington University in St. Louis](https://biology.wustl.edu). Follow this [link to our lab’s page on the Danforth Center’s website](https://www.danforthcenter.org/our-work/principal-investigators/r-keith-slotkin/). For our latest news and updates, follow [Keith’s Twitter account](https://twitter.com/Slotkin_Lab).
+Welcome to the Slotkin laboratory! We are located at the [Donald Danforth Plant Science Center](https://www.danforthcenter.org) in St. Louis, Missouri. We are also a part of the [Division of Biological Sciences at the University of Missouri-Columbia](https://biology.missouri.edu) and have an honorary affiliation with the [Department of Biology at Washington University in St. Louis](https://biology.wustl.edu). Follow this [link to our lab’s page on the Danforth Center’s website](https://www.danforthcenter.org/our-work/principal-investigators/r-keith-slotkin/). For our latest news and updates, follow [Keith’s Twitter account](https://twitter.com/Slotkin_Lab).
 
 {% include feature_row %}
