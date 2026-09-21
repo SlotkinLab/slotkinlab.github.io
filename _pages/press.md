@@ -5,13 +5,13 @@ title: Press
 permalink: /press/
 ---
 
-#### *[Spearhead Bio](https://spearheadbio.com) closes an over-subscribed seed funding round!
+#### *[Spearhead Bio](https://spearheadbio.com) closes an over-subscribed seed funding round!*
 
 [Danforth Center Press](https://www.danforthcenter.org/news/spearhead-bio-brings-next-generation-crop-engineering-technology-to-farmers/)
 
 [AgFunder News](https://agfundernews.com/exclusive-spearhead-bio-lands-oversubscribed-seed-round-for-faster-more-precise-gene-editing-tech)
 
-#### *[Spearhead Bio](https://spearheadbio.com) named a Startup to watch in 2026 by the St. Louis Business Journal! [Link](https://www.bizjournals.com/stlouis/news/2026/01/29/startups-to-watch-2026-spearhead-bio.html)
+#### *[Spearhead Bio](https://spearheadbio.com) named a Startup to watch in 2026 by the St. Louis Business Journal! [Link](https://www.bizjournals.com/stlouis/news/2026/01/29/startups-to-watch-2026-spearhead-bio.html)*
 
 #### *Together with the [Danforth Technology Company](https://danforthtechnology.com) the Slotkin lab launches the start-up company [Spearhead Bio](https://danforthtechnology.com/spearhead-bio/)!*
 <figure class="half">
