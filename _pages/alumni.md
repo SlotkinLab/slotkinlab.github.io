@@ -77,11 +77,12 @@ gallery:
 |**Saivageethi Nuthikattu** (Ohio State Department of Molecular Genetics)|2010-2014| Postdoc with Amparo Villablanca at UC Davis|
 |**Andrea McCue** (Ohio State Department of Molecular Genetics), Presidential Research Fellowship, Center for RNA Biology Fellowship, University Fellowship|2010-2015| Postdoc at NIH with Shiv Grewal (2015-2017). Returned as a Postdoc to the Slotkin lab in 2017|
 |**Dalen Fultz** (Ohio State MCDB Interdisciplinary Graduate Program), Presidential Research Fellowship, Cellular, Molecular & Biochemical Sciences (CMBP) Training Grant Fellow | 2012-2017| Postdoc with Craig Pikaard, University of Indiana/HHMI|
-|**Kaushik Panda** (Ohio State Department of Molecular Genetics), Presidential Research Fellowship|2012-2017|Postdoc in the Slotkin lab|
-|**Sarah Choudury** (Ohio State MCDB Interdisciplinary Graduate Program), Cellular, Molecular & Biochemical Sciences (CMBP) Training Grant Fellow, Center for RNA Biology Fellowship|2014-2018| Postdoc in Aman Husbands' laboratory at Ohio State / University of Pennsylvania |
+|**Kaushik Panda** (Ohio State Department of Molecular Genetics), Presidential Research Fellowship|2012-2017||
+|**Sarah Choudury** (Ohio State MCDB Interdisciplinary Graduate Program), Cellular, Molecular & Biochemical Sciences (CMBP) Training Grant Fellow, Center for RNA Biology Fellowship|2014-2018| Postdoc in Aman Husbands' laboratory at University of Pennsylvania |
 |**Meredith Sigman** (Ohio State Department of Molecular Genetics), Cellular, Molecular & Biochemical Sciences (CMBP) Training Grant Fellow, Ohio State University Fellowship|2014-2021| Research Scientist at Bayer Crop Science|
 |**Diego Cuerda-Gil** (Ohio State Department of Molecular Genetics), CONACyT Fellowship from Mexico, William H. Danforth Plant Science Fellow |2016-2021| Research Scientist at Bayer Crop Science|
 |**Seth Edwards** (University of Missouri Division of Biological Sciences) |2020-2025| Postdoc in the Slotkin Lab|
+|**David Li** (Division of Biology & Biomedical Sciences at Washington University in St. Louis) |2023-2026| Director of Research & Development at Boba Pops|
 
 ### *Undergraduate Students*
 
@@ -102,6 +103,7 @@ gallery:
 |**Harper Lowrey**, Danforth Center Research Experiences for Undergraduates program| 2022 | Yale University|
 |**Tayahna Agtarap**, Danforth Center Research Experiences for Undergraduates program| 2023 | California State University at Long Beach |
 |**Joseph Serio**, Danforth Center Research Experience for Undergraduates| 2024 | University of Southern Mississippi |
+|**Kate Seida**, Danforth Center Research Experience for Undergraduates| 2026 | Purdue University |
 
 ### *Lab Staff*
 
@@ -115,6 +117,7 @@ gallery:
 |**Hayden Payne**|2019-2021| Graduate student in the [Department of Plant Sciences at the University of Arizona](https://cals.arizona.edu/spls/home)|
 |**Lauren McLain** |2019-2022| Researcher at Bayer Crop Science|
 |**Trey Klaas** | 2022-2025 | |
+|**Allison Antonakos** | 2025-2026 | Researcher at Confluence Genetics |
 
 
 # Lab pictures from each year
