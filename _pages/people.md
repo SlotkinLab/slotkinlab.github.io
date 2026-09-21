@@ -8,7 +8,7 @@ classes: wide
 show_excerpts: true
 ---
 [![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/people/KS.jpg)](https://www.danforthcenter.org/our-work/principal-investigators/r-keith-slotkin/){: .align-left}
-### [**R. Keith Slotkin**](https://www.danforthcenter.org/our-work/principal-investigators/r-keith-slotkin/)  
+### [**Keith Slotkin**](https://www.danforthcenter.org/our-work/principal-investigators/r-keith-slotkin/)  
 Principal Investigator, Full Member and Vice President of Commercialization, [Donald Danforth Plant Science Center](https://www.danforthcenter.org/)  
 
 Professor, [Division of Biological Sciences, University of Missouri-Columbia](https://biology.missouri.edu) 
