@@ -24,6 +24,8 @@ If you need help with one of these topics, please feel free to email us and requ
 
 After more than a decade of elucidating how cells control TEs, we have learned how we can control TE activity within plant cells. This includes the control of the timing of transposition, the location of TE insertion and the DNA cargo that the TE delivers to the targeted site. We have combined TEs with gene editing tools such as CRISPR-Cas and Cre/Lox to create new tools to manipulate plant genomes. This is a use-inspired synthetic biology project to create proof-of-principle demonstrations of new technology, and then translate these discoveries into important crops that need new tools. 
 
+Through Research Topic #2 and our desire to control TEs within plant genomes, the startup company <strong>Spearhead Bio</strong> was created to perform improved genome engineering in crops. Learn more about [Spearhead Bio here](https://spearheadbio.com)) 
+
 *************************************************************************************************
 
 See our [Publications](/publications/), [Press](/press/) and [Resources](/tools-resources) pages for links to our research articles, while the Review / Commentary articles below are good representations of our opinions and viewpoints:
