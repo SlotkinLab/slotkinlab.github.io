@@ -5,6 +5,14 @@ title: Press
 permalink: /press/
 ---
 
+#### *[Spearhead Bio](https://spearheadbio.com) closes an over-subscribed seed funding round!
+
+[Danforth Center Press](https://www.danforthcenter.org/news/spearhead-bio-brings-next-generation-crop-engineering-technology-to-farmers/)
+
+[AgFunder News](https://agfundernews.com/exclusive-spearhead-bio-lands-oversubscribed-seed-round-for-faster-more-precise-gene-editing-tech)
+
+#### *[Spearhead Bio](https://spearheadbio.com) named a Startup to watch in 2026 by the St. Louis Business Journal! [Link](https://www.bizjournals.com/stlouis/news/2026/01/29/startups-to-watch-2026-spearhead-bio.html)
+
 #### *Together with the [Danforth Technology Company](https://danforthtechnology.com) the Slotkin lab launches the start-up company [Spearhead Bio](https://danforthtechnology.com/spearhead-bio/)!*
 <figure class="half">
   <img src="/assets/images/Spearhead.jpg">
@@ -21,7 +29,7 @@ Press releases:
 
 [iGrow News](https://igrownews.com/spearhead-bio-latest-news/) [CropLife](https://www.croplife.com/crop-inputs/seed-biotech/spearhead-bio-awarded-nsf-tech-transfer-grant-to-accelerate-development-of-improved-corn-varieties/)
 
-[Spearhead was awarded an NSF STTR Award](https://danforthtechnology.com/spearhead-bio-awarded-nsf-tech-transfer-grant-to-accelerate-development-of-improved-corn-varieties/) 
+#### [Spearhead Bio was awarded an NSF STTR Award](https://danforthtechnology.com/spearhead-bio-awarded-nsf-tech-transfer-grant-to-accelerate-development-of-improved-corn-varieties/) 
 
 Follow Spearhead on [Twitter](https://x.com/Spearhead_Bio) and [Linkedin](https://www.linkedin.com/company/spearhead-bio/)
 
