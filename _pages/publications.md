@@ -11,7 +11,16 @@ An up to date full list of publications can be found on [Google Scholar.](https:
 
 *Italic text* indicates Slotkin lab undergraduate researcher
 
+# 2026
+
+H. Ambreen, B. Leduque, L. Quadrana, **R.K. Slotkin**, A. Bousios and H.-W. Nutzmann. [Somatic mobility of transposons is explosive and shaped by distinct integration biases in Arabidopsis thaliana](https://link.springer.com/article/10.1186/s13059-026-04149-0). **Genome Biology**. 
+
+V.A.C. Pavinato, E.H. Penton-Michel, **S. Shahid**, J.A. Wenger, **R.K. Slotkin** and A. Michel. [Adaptation to Plant Defense in an Agricultural Pest: Integrating Genome Scans and Gene Expression in the Soybean Aphid Reveals Multi-genic pathways](https://onlinelibrary.wiley.com/doi/10.1111/mec.70536). **Molecular Ecology** 35: e70536.
+
 # 2025
+
+**M.C. Kramer, T.S. Ratnayake, S.A. Edwards**, *H.L. Lowrey*, **G. Klaas**, L. 
+Sidorenko, B.A. Rowan, R. Michelmore, B.C. Meyers and **R.K. Slotkin**. [Identification of a cleaved aberrant RNA associated with the initiation of transgene silencing](https://academic.oup.com/plcell/article/37/10/koaf219/8258484). **The Plant Cell** 37: koaf219.
 
 L. Gilbertson, H. Puchta and **R.K. Slotkin**. Perspective: [The Future of Genome Editing in Plants](https://www.nature.com/articles/s41477-025-01956-4). **Nature Plants** v11:680-685.
 
