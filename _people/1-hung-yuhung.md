@@ -2,7 +2,7 @@
 layout: archive
 title: "Yu-Hung Hung"
 author: Yu-Hung Hung
-jobtitle: Former Postdoctoral Researcher now at [Spearhead Bio](https://danforthtechnology.com/spearhead-bio/)
+jobtitle: Visiting Scientist from [Spearhead Bio](https://spearheadbio.com)
 bio:
 excerpt: ""
 author_profile: true
