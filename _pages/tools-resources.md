@@ -29,8 +29,20 @@ From: [A plant tethering system for the functional study of protein-RNA interact
 ---
 #### Software Tools
 
+[Analyze CRISPR knock-in insertion junctions with amplicon sequencing](https://github.com/sandaruwanrat/CRISPR_Amplicon_Seq_Analysis/tree/main) - Analyze the CRISPR junction intactness using GATK on amplicon reads and visualize basepair insertions and deletions.
+
+Analyze CRISPR on and off target insertion rate using Insertion-seq [analysis pipeline](https://github.com/sandaruwanrat/CRISPR-insertion-seq/tree/main/Scripts)
+Whole-genome CRISPR off-target insertion screening, and visualization of unintended insertion events.
+
+[CHIP-seq data processing snakemake pipeline](https://github.com/sandaruwanrat/CHIP-Seq_snakemake_pipeline). Snakemake based CHIP-seq processing pipeline for HPCs. Generates bam files  and normalized bigwig tracks
+
+[Small RNA-seq data processing snakemake pipeline](https://github.com/sandaruwanrat/sRNA_processing_pipeline_snakemake). Snakemake based sRNA-seq processing pipeline for HPCs. Generate Genome mapped bam files and count files.
+
+DNA Methylation Analysis - Bisulfite Amplicon sequencing (BSAS-seq) [processing wrapper](https://github.com/sandaruwanrat/BSA_seq_wrapper)
+Analyze Bisulfite Amplicon sequencing reads, map reads using methylpy, generate allC files, count methylation percentage, coverage and stats.
+
 Tool to determine the stength of RNA-directed DNA Methylation (RdDM). From: [An siRNA-guided Argonaute protein directs RNA Polymerase V for the first round of RNA-directed DNA methylation](https://www.nature.com/articles/s41477-021-01008-7) (2021). M. Sigman, K. Panda, R. Kirchner, L.L. McLain, H. Payne, J.R. Peasari, A.Y. Husbands, R.K. Slotkin, A.D. McCue.Nature Plants 7: 1461-1474. 
-*Custom python script to analyze dot-plot images from KisMeth available from [GitHub](https://github.com/jpeasari/Dot-Plot-Anaysis-OpenCV).
+2026 - [Improved pipeline](https://github.com/sandaruwanrat/BSA_seq_wrapper) to calculate RNA-directed DNA Methylation (RdDM) strength from bisulfite amplicon sequencing data using Bismark.
 
 [EpiTEome: Simultaneous detection of transposable element insertion sites and their DNA methylation levels.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1232-0) J. Daron and R.K. Slotkin. Genome Biology v18:7704.  *Available on [GitHub](https://github.com/jdaron/epiTEome).*
 
