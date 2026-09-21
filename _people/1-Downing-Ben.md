@@ -2,7 +2,7 @@
 layout: archive
 title: "Ben Downing"
 author: Ben Downing
-jobtitle: Post Doc
+jobtitle: Postdoctoral Researcher
 bio:
 excerpt: ""
 author_profile: true
