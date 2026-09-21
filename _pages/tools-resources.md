@@ -7,7 +7,7 @@ permalink: /tools-resources/
 ---
 Below are some of the tools and resources developed by the Slotkin Lab:
 
-#### All-in-One RNA sequencing Data Pipeline and Machine Learning 
+#### All-in-One (AIO) RNA sequencing Data Pipeline and Machine Learning 
 
 From: (2025)  M.C. Kramer, T.S. Ratnayake, S.A. Edwards, H.L. Lowrey, G. Klaas, L. Sidorenko, B.A. Rowan, R. Michelmore, B.C. Meyers and R.K. Slotkin. [Identification of a cleaved aberrant RNA associated with the initiation of transgene silencing](https://academic.oup.com/plcell/article/37/10/koaf219/8258484 ). The Plant Cell 37: koaf219. Github repository available [here](https://github.com/sandaruwanrat/AIO_paper).
 This repo contains the scripts for all data analysis steps for "All-in-One" RNA-seq, Random Forest machine learning, small RNA sequencing, and RMarkdown files for each figure in the manuscript.
