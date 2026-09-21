@@ -10,8 +10,10 @@ show_excerpts: true
 [![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/people/KS.jpg)](https://www.danforthcenter.org/our-work/principal-investigators/r-keith-slotkin/){: .align-left}
 ### [**R. Keith Slotkin**](https://www.danforthcenter.org/our-work/principal-investigators/r-keith-slotkin/)  
 Principal Investigator, Full Member and Interim Co-Vice President of Research, [Donald Danforth Plant Science Center](https://www.danforthcenter.org/)  
-### Professor, [Division of Biological Sciences, University of Missouri-Columbia](https://biology.missouri.edu) 
-### Honorary Adjunct Professor, [Washington University in St. Louis](https://wustl.edu), [Department of Biology](https://biology.wustl.edu) and
+
+Professor, [Division of Biological Sciences, University of Missouri-Columbia](https://biology.missouri.edu) 
+
+Honorary Adjunct Professor, [Washington University in St. Louis](https://wustl.edu), [Department of Biology](https://biology.wustl.edu) and
 [Division of Biology & Biomedical Sciences Graduate Program](https://dbbs.wustl.edu/Pages/index.aspx)
 
 <a href="http://scholar.google.com/citations?user=jkJlkSYAAAAJ" itemprop="sameAs" rel="nofollow noopener noreferrer">
