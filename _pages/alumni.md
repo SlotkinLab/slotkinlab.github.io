@@ -5,6 +5,9 @@ title: Alumni
 description:
 permalink: /alumni/
 gallery:
+  - url: /assets/images/group_pictures/2025.jpg
+    image_path: /assets/images/group_pictures/2025.jpg
+    title: "2025"
   - url: /assets/images/group_pictures/2024.jpg
     image_path: /assets/images/group_pictures/2024.jpg
     title: "2024"
